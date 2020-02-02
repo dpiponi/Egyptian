@@ -1,0 +1,4944 @@
+Aw-w
+long, extend (3ae-inf), (Aw = "length")
+Awi
+Aw-w-t:N18:Z2
+offerings (n.)
+Awt
+Ab-b-D54
+cease (v.)
+Ab
+Ab-b-E24
+panther (n.)
+Aby
+Ab-b-w-T19
+ivory (n.)
+Abw
+Ab-b-w-E26
+elephant (n.)
+Abw
+Ab-b-W8:t-A1*B1:Z2
+family (n.)
+Abt
+Ab-b-W8:t-A1*B1:Z2
+family, household (n.)
+Abt
+N11:N14-D46:N5-Z1
+month (n.)
+Abd
+N11:N14-D46:N5
+month, monthly festival (n.)
+Abd
+Ab-b-N26:O49
+Abydos (place name)
+AbDw
+Ab-b-N26:O49
+Abydos (n.)
+AbDw
+D58-Z7:Z4-K2:Z2
+abomination (n.)
+bwt
+G1-\!r-M17-M17-t:Z1
+staff
+Aryt
+G1-O4-w-G37
+misery, pain (n.)\\needy (adj.)
+Ahw
+A-H-nw:Z2
+bread sops
+AH
+z:zA-A-Z7-O49
+Sais (place)
+sAw
+Ax-\!x:.
+{\tiny become an akh-spirit (2-lit)\\useful, profitable, effective\\akh-spirit (n.)}
+Ax
+G1-x-w-N8
+sunlight (n.)
+Axw
+M8:x-t
+inundation season (n.)
+Axt
+N27:t-O1
+horizon (n.)
+Axt
+G1-S29-V2:D54
+quickly (adv.)\\hasten (v.)
+As
+G1-O34:x-A24
+reap (v.)
+Asx
+Q1-t:H8
+Isis (n.)
+Ast
+G1-N37:r-Q7
+roast (v.)
+ASr
+G1-N29:G37
+perish (v.)
+Aq
+G1-t:f-S8
+crown of Osiris (n.)
+Atf
+G1-D46:I3
+be angry, aggressive (v.)
+Ad
+A2
+I/me/my (pron. 1st pers. sing. suff.) 
+i
+M17-A2
+O (interjection)
+i
+n:h-G37-N33:Z2
+a little (n.)
+nhy
+q-i-A53-Y1\R90
+form, shape (n.)
+qi
+M17-G1-A30
+praise (n.)
+iA(w)
+M17-G1-A30
+praise, adoration (n.)
+iA(w)
+U23-m:r-G37
+pain, ailment (n.)
+mr
+R15-b-t:Z4
+eastern (adj.)
+iAbty
+M1-m-O1
+tent (n.)
+iAm
+M17-G1-r-w-M2-M2-M2
+reeds (n.)
+iArw
+M17-G1-r:r-t-M43
+vine (n.)
+iArrt
+M17-G1-r:r:t-M43-N33:Z2
+grapes (n.)
+iArrt
+M17-G1-N37-A2
+call (v.)
+iAS
+M17-G1-t:F37
+back (n.)
+iAt
+O44-t:Z1
+office (n.)
+iAt
+O44-t:Z1
+office, function (n.)
+iAt
+N4
+rainwater
+iAdt
+n:n-W24:W24:W24-w
+primaeval waters (n.)
+nnw
+ii-i-w
+welcome
+iiw
+M17-a:N35A-a
+wash (v.)
+iwa
+M17-D36:r-O41
+ascend (v.)
+iar
+M17-D36:r:t-I12
+cobra, uraeus (n.)
+iart
+M17-D36-V28-N12\R90
+moon (n.)
+iaH
+i-w
+it is the case (temp. procl.)
+iw
+N18:Z1*N23
+island (n.)
+iw
+M17-V4-G1-E1
+ox (n.)
+iwA
+E9-w-P1
+be boatless (v.)
+iw(i)
+E9-w-M17-t:G37
+wrongdoing (n.)
+iwit
+E9-w-D36:w-S21
+ring (n.)
+iwaw
+E9\80:E9\80
+boatless person (n.)
+iww
+M17-w-f:F51
+flesh (n.)
+iwf
+O28-Z1
+pillar (n.)
+iwn
+O28-W24:O49
+Heliopolis (n.)
+iwnw
+W23:Z1
+heart (n.)
+ib
+F34:Z1
+heart. mood (n.)
+ib
+M17-b-A32
+dance (v.)
+ib(A)
+M17-b-E8-n-A2
+be thirsty (v.)
+ib(i)
+M17-b-E8-n-A2-A1
+thirsty person (n.)
+ib(i)
+M17-b-E8-t:n-A2
+thirst (n.)
+ibt
+M17-Q3:Y2
+inspect (v.)
+ip
+M17-f:D46-S28
+cloth, sheet
+ifd
+M17-m
+in (with suffix prep.), therein (adv.)
+im
+M17-U1-M1-m
+gracious, charming (adj.)
+imA
+M17-U2:x-F39
+reverence (n.)
+imAx
+M17-F39:x-M17-M17
+revered (adj.)
+imAxy
+M17-F39-M17-M17
+revered one (n.)
+imAxy
+M17-F39:x-w
+revered one (n.)
+imAxw
+M17-Z11-m-\!\!Z4:.
+which is in (adj.)
+imy
+W17-m
+chamberlain (n.)
+imy-xnt
+Z11-m-\!\!Z4:.-t:Z7
+between, among (prep.)
+imitw
+M17-Y5:n-A4
+hide (v.)
+imn
+M17-Y5:n
+Amun (n.)
+imn
+M17-Y5:n-N5:Z1-A40
+Amun-Re (n.)
+imn-ra
+R14-t:N25
+west (n.)
+imnt
+R14-t:Z4
+western (adj.)
+imnty
+R14-t*Z4:N25
+western (adj.)
+imnty
+M17-Aa15:O34-U33-M17
+Imseti (god)
+imsti
+M17:n
+{\tiny by (prep., procl.), indeed, gives interrogative force or emphasis}
+in
+W25:n
+bring, get (3ae-inf)
+ini
+W25-n:W24*w-Y1:Z2
+gifts (n.)
+inw
+W25-nw:Z2
+gifts, produce, cargo (n.)
+inw
+M17-K1:n-b-O36
+wall (n.)
+inb
+M17-n:Q3-w-E16
+Anubis (n.)
+inpw
+M17-K1:n-T34-m-D3
+skin (n.)
+inm
+M17-A2-n:n:Z2
+we (pron. 1st pers. plur. ind.)
+inn
+M17-n:r:N37-T3-F35-n-D36:W24-D8
+limestone (n.)
+inr HD n a(i)nw
+W24:V31
+I [I] (pronoun [S1c])
+ink
+M17-A26
+O! (interj.)
+i
+D4
+do, perform, spend (time) (3ae-inf)
+iri
+M17-r:Z4
+thereto, with respect to it (adv.)
+iri
+M17-r:Z4-A48
+keeper (n.)
+iry
+M17-r:Z4-A48-F35-F4
+keeper of the king's diadem (n.)
+iry-nfr-HAt
+M17-r:Q3-W21
+wine (n.)
+irp
+D4:n
+made by (phrase)
+ir-n
+D4:t*Z1
+eye (n.)
+irt
+M17-r:t*t-W20
+milk (n.)
+irtt
+M17-x:Y1
+therefore, then, may (w. prosp.), what?
+ix
+M17-M40-O34:O1
+tomb (n.)
+iz
+M17-M40-S29-f:t*Z4-G37
+evil one (n.)
+isfty
+i-s-T
+marks adverb clause (procl.)
+isT
+i-S:f-nw:Z2
+liquid
+iSf
+M17-F30:D46-M43
+desert dates
+iSd
+M17-N29:r-Y1\R90
+excellent, astute, skilful (adj.), prosperity (n.)
+iqr
+M44-Z7-G7
+Sopdu (god)
+spdw
+M17-Aa28-D46-w-A1
+builders (n.)
+iqdw
+M17-V31-A19
+miner (n.)
+iky
+M17-t:f-A1
+father (n.)
+it
+U10:Z2
+barley (n.)
+iti
+I3:I3
+sovereign, sire (n.)
+ity
+M17-t:f-A1-Z3
+ancestors (n.)
+it(w)
+M17-t:f-A1-Z3
+(fore-)fathers
+it(w)
+M17-X1:D37-A40
+Atum (god)
+itmw
+M17-t:n-N5
+Aten (n.)
+itn
+R8-t
+god's father
+it-nTr
+R8-t:f
+god's father
+it-nTr
+M17-t:r-w-n
+river (n.)
+itrw
+M17-t:r:t-O20
+sanctuary (n.)
+itrt
+V15-A24
+seize (3ae-inf)
+iTi
+M17-D46:F21
+be deaf (v.)
+idi
+M17-D46-V28-w-M15
+marshlands (of Nile delta) (n.)
+idHw
+D36:Z1
+arm, hand (n.)
+a
+O29:D36-G1-Y1\R90
+be great (v.)
+aA
+O29:O31
+door (n.)
+aA
+O29:D52-E7
+donkey, ass (n.)
+aA
+O29:D36-G1-w-Y1\R90
+greatly (adv.)
+aAw
+O29:D36-G1-A1:Z2
+the great (class of people) (n.)
+aA(w)
+O29:D36-m-T14-A13
+Asiatic (n.)
+aAm
+D36:D36-Z4
+arms (n.)
+awy
+S38-w-\!\!t:.-E8-Z3
+flock (n.)
+awt
+D36-b-F16
+horn, flank of army
+ab
+D36:f:f-L3
+fly (n.)
+aff
+A37-t:Z4
+brewer (n.)
+afty
+D36-m-D36-G1-T14
+throw (v.)
+amaA
+S34-n:x-A2
+swear (v.)
+anx
+S34-Z1:N34
+mirror (n.)
+anx
+S34-n:x
+live (3-lit)\\life (n.)
+anx
+S34-w-A1-Z3
+the living (n.)
+anxw
+S34-S34-F21:F21
+ears (n.)
+anxwy
+S34-U28-S29
+life, prosperity, health (phrase)
+anx wDA snb
+S34-t-R8-M17-m
+on which a god lives (phrase)
+anxt nTr im
+S34-D:\!\!\!t:N17
+living eternally (phrase)
+anx Dt
+s-qd-d:P1
+sail (v.)
+sqdy
+D36:n-G4-W23:Z2
+myrrh (n.)
+antyw
+D36:r:t-F19
+jaw (n.)
+art
+D36-V28-T24
+catch (v.)
+aH
+O11-D36:O1
+palace, cabin (n.)
+aH
+D34-A24
+fight (3-lit)\\fighting (n.)
+aHA
+P6-a:D54
+stand, wait, expect, steadfast (3-lit)
+aHa
+r:x-Y1:n
+learn of
+rx n
+D36:x-m-t:N23*Z1
+river bank (n.)
+axmt
+D36:F26-n:W24*t-U33-O1
+audience chamber (n.)
+a-Xnwty
+D36:F26-W24:t:Z4-O1
+chamber (n.)
+aXnwty
+I1:Z2
+be abundant, many (v.)
+aSA
+I1:Z2-r:Z1-A2
+chatter (v.)
+aSA-r
+D36:N29-G1-D50-D50-Y1\R90
+be precise (v.)
+aqA
+G35:t
+female servant (n.)
+aqyt
+A24
+strain
+atx
+M17-G1-w-A19
+(a.) old;\\(n.) old age
+iAw
+wA-g-W4
+Wag festival (n.)
+wAg
+M14-Y1
+fresh (adj.)
+wAD
+Z1
+one
+wa
+T21:D36-D36:w
+privacy (n.)
+waaw
+wab-N35A
+clean, become clean (3-lit), priest
+wab
+Z7-D36:n-Aa2-M1
+juniper (n.)
+wan
+F13:N31-N31:N31-A40
+Wepwawet (god)
+wpwAwt
+F13:Q3-t:Z4-Z9:D54-A3
+messenger (n.)
+wpwty
+M18-M17-D54
+come, come back (v.)
+ii/iy(i)
+wn:n-nw:t-N14:ra
+hour, priesthood (n.)
+wnwt
+Z11-m-A2
+eat (v.)
+wnm
+M42:n-m-t-A2-X2*W22:N18-Z3
+food (n.)
+wnmt
+E34-n:n
+exist (2ae-gem)
+wnn
+E34:n:n-F35-A40
+Wenennefer, Onophris (god)
+wnn-nfr
+G36:r
+great, how much? (adj.)
+wr
+G36:r-V28-W23:D40
+anoint (v.)
+wrH
+G36:r-S29-Q4
+head-rest (n.)
+wrs
+G36:r-t
+very
+wrt
+G36-t:P3
+the great barque (n.)
+wrt
+w-M16-G1-A24
+hew (stones) (v.)
+wHA
+P4:D36-V1-A2
+explain (v.)
+wHa
+P4:D36-V1-A3
+fisherman (n.)
+wHa
+F25-m
+repeat (3-lit)\\reporter, herald (n.)
+wHm
+F25-t:Z1
+hoof (n.)
+wHmt
+w-x-R16
+{\em wx}-fetish
+wx
+w-M12-G1-G37-A2
+fool (n.)
+wxA
+Q1:D4-A40
+Osiris (n.)
+Asir
+F12-S29-r:M3
+oar (n.)
+wsr
+F12-S29-r
+powerful (adj.)
+wsr
+F12-S29-r:t
+Wosret (god)
+wsrt
+w-S29-T:n-D54
+stride (v.)
+wsTn
+w-N37:D3
+be bald (v.)
+wS
+w-F30:D46-A2
+address (v.)
+wSd
+w-t:Aa2-A2
+embalmer (n.)
+wt
+w-V24
+order (n.)\\command (2-lit)
+wD
+w-U28-D54
+proceed (v.)
+wDA
+w-D:\!\!f-D54
+delay be late, dawdle (4ae-inf)
+wDfi
+V24-V28-w-R3
+table of offerings, altar (n.)
+wDHw
+G29-\!\!Z1:.
+ba (n.)
+bA
+W1-X1:X1-B1
+Bastet
+bAstt
+G29-V31-A1
+man-servant (n.)
+bAk
+G29-V31:t-B1
+maid-servant (n.)
+bAkt
+b-G29-G1-W11-M23-w-N34
+dagger (n.)
+bAgsw
+b-G29-G1-t:M2
+bush, sprig (n.)
+bAt
+b-M17-N41:F18
+copper (n.)
+biA
+b-M17-N41:F18-N25
+mine (n.)
+biAw
+b-M17-n:G37
+bad (adj.)
+bin
+G1-Q3:D46-G39
+bird (n.)
+Apd
+L2-t-W22:Z2
+honey (n.)
+bit
+L2-t:Z1
+bee (n.)
+bit
+L2-t-A42
+king of Lower Egypt (n.)
+bity
+M30-n:r:Y1
+sweet, pleasant (adj.)
+bnr
+M30-Z1-U10:Z2
+dates
+bnr
+b-n:t-Y7
+harp (n.)
+bnt
+F18:O34-E3
+calf (n.)
+bHs
+b-D28-B2
+be pregnant (v.)
+bkA
+b-t:U30-G1-G37
+crime (n.)
+btA(w)
+b-V15
+run, abandon
+bT
+b-D46:N37-A7
+faint (v.)
+bdS
+Q3-G40-G1-H5
+fly (v.)
+pA
+G40-t:X6
+primaeval time (n.)
+pAwt
+Q3:D36:t-A1*B1:Z2
+mankind, nobility (n.)
+pat
+Q3-w
+this (dem. pron. m.)
+pw
+Q3:f
+that (dem. pron. m.)
+pf
+Q3:n
+this (dem. pron. m.)
+pn
+Q3:n-W24-w-F27
+mouse (n.)
+pnw
+O1:Z1
+house (n.)
+pr
+O1:r-D54
+go out (3ae-inf)
+pri
+O1:O29-O1
+palace (n.)
+pr-aA
+O1:O29
+pharaoh (n.)
+pr-aA
+M23-t:n-O1:Z1
+palace (n.)
+pr-nswt
+O1:r-t:N5
+winter (n.)
+prt
+O1:r-t-U13:N33A
+seed (n.)
+prt
+O1:r-t:D54
+procession (n.)
+prt
+U13-t:Z2
+berries
+prt
+O3
+invocation offerings (n.)
+prt-xrw
+F22:D54
+attack, reach, attack (2-lit)
+pH
+F22-t:Z4-F9\75:F9\75
+strength, valour (n.)
+pHty
+F47:r*t-N33:Z2
+remedy, prescription
+pXrt
+p:z-Q7
+cook
+psi
+Q3:O34-V28-F18-A2
+bite (v.)
+psH
+Q3:O34-W11-D26
+spit (v.)
+psg
+Q3*t:N1
+sky (n.)
+pt
+Q3*t:r-D6
+see, behold
+ptr
+D10\-D10
+view (v.)
+ptr
+Q3:t-V28
+Ptah (n.)
+ptH
+Q3:D46-D56
+knee (n.)
+pd
+f
+he/him/his [S] (pronoun [S3m])
+f
+f:n:D46-D19
+nose (n.)
+fnd
+f:N29-G1-X4
+cake (n.)
+fqA
+f:t-f:t-D54
+leap (v.)
+ftft
+U2:Aa11-D36:Y1
+true (adj.)
+mAa
+U5-D36:D54
+present (v.)
+mAa
+Aa11:P8\r1
+justified (adj.)
+mAa-xrw
+U5:D36-t-H6-Y1\R90
+truth (n.)
+mAat
+C10
+Maat (n.)
+mAat
+U2:D4-G1-r:T12-G37
+wretched (adj.)
+mAr
+mA-A-X-Q7
+burn, smoulder (v.)
+mAX
+U2:T-W7
+granite (n.)
+mAT
+mi-i
+as, like, when (prep.)
+mi
+W19-M17-w-E13
+cat (n.)
+miw
+N36:n-b-N34
+axe (n.)
+minb
+N36:O34-t:F51
+liver (n.)
+mist
+W19-M17-Aa28-D46:W24-Y1\R90
+whole "like the shape" (adj.)
+mi qd
+W19-t-M17-M17-A50
+peer (n.)
+mity
+W19-M17-M17
+likewise, accordingly (adv.)
+my
+m-D36:r-M1-Y1\R90
+be fortunate (v.)
+mar
+m-P6-t:O1
+tomb (n.)
+maHat
+m-D36:N29-Q7
+roast (v.)
+maq
+n
+water (n.)
+mw
+N35A-i-i-t:N35A
+urine
+mwyt
+G14-t-B1
+mother (n.)
+miwt
+m-mt:Z1
+before (prep.)
+m-bAH
+m-f:D28-t:N33*N33*N33
+turquoise (n.)
+mfkAt
+A1
+me, my (suffix pronoun)
+=i
+Y5:n-G37
+suffer (v. intr \& trans)
+mn
+Y5:n-M17-P11-A24
+moor (v.)
+mni
+A47-w
+herdsman (n.)
+mniw
+Y5:n-M17-t-S18
+necklace (n.)
+mnit
+mn:n-i-i-t:xt
+root
+mnyt
+Y5:n-D36:t*D27
+wet-nurse (n.)
+mnat
+Y5:W24\90*W24\90*W24\90
+monument, dedication (n.)
+mnw
+R22:R12
+Min (n.)
+mnw
+Y5:n:f-M17-M17-t-A12-Z3
+soldiers (n.)
+mnfyt
+Y5:n-Y5:n-t-E1:Z2
+cattle (n.)
+mnmnt
+Y5:n-x:U22-Y1\R90
+efficient, beneficent, excellent
+mnx
+Y5:n-x:t-S27
+linen, clothing (n.)
+mnxt
+Y5:n-t-D56
+thigh, haunch (n.)
+mnt
+Y5:n-t:G36
+swallow (n.)
+mnt
+Y5:n:T-w
+Montju (n.)
+mnTw
+Y5:n-D46:D27
+breast (n.)
+mnd
+Ab-m:r-O24
+pyramid (n.)
+mr
+N36:N21*Z1
+canal (n.)
+mr
+U7:r-A2
+love, desire, wish (3ae-inf)
+mri
+U7:r-w:t-A2
+love (n.)
+mrwt
+U7:r-V28-t-W1
+oil, unguent (n.)
+mrHt
+m:r-S19:t
+treasurer (overseer of what is sealed)
+m-r xtmt
+N36:N21*Z1-A1*B1:Z2
+weavers (n.)
+mrt
+U7:r:t-A1*B1:Z2
+slaves (n.)
+mrt
+U7:r:t-i-B1
+Merti (name)
+mrti
+V22-V28-n
+drown (v.)
+mH
+V22:D36
+cubit (n.)
+mH
+G20-F26:n-t:P1
+ferry-boat (n.)
+mXnt
+G20-T28:r-O1
+storehouse (n.)
+mXr
+m-O35
+bring, present, offer (v.)
+ms
+F31-S29-B3
+give birth (v.)
+ms(i)
+F31-S29-M17-M17-t-N2-N18:Z2
+evening meal, supper (n.)
+msyt
+F31-w-A17-Z3
+offspring (n.)
+msw
+F31-n
+born to (m) (adj.)
+ms-n
+m-O34:V28-I3
+crocodile (n.)
+msH
+F31-D28-F27
+rug (n.)
+mskA
+F31-S29-D
+hate (4ae-inf)
+msDi
+F31-S29-M36:r-F21
+ear (n.)
+msDr
+A12-A1*B1:Z2
+army (n.)
+mSa
+A12
+expedition (n.)
+mSa
+G20-N37:r-E23-w-N2
+evening (n.)
+mSrw
+m-D38:V31
+Behold! (procl.)
+m.k
+m-D38:T
+behold (f) (procl.)
+m.T
+m-D38-T:n:Z2
+behold (c) (procl.)
+m.Tn
+S43-D46:w-A2
+speak (v.)\\speaker (n.)
+mdw
+S43-D46:t-A2
+speech, word, plea (n.)
+mdt
+m-D:\!\!\!\!t-W1
+ointment (n.)
+mDt
+n
+to (prep., indicates goal)
+n
+n:Z2
+we/us/our [SD] (pronoun [P1c])
+n
+D35
+not, never (procl.)
+ni
+D41:n-w-G34
+ostrich (n.)
+niw
+O49:t*Z1
+city (n.)
+niwt
+O49:O49
+local (adj.)
+niwty
+n-W23:Z1
+for the sake of (prep.)
+n ib(n)
+n:M17*S29-A26
+summon (v.)
+nis
+n
+of (m) (adj.)
+n(y)
+n:t
+of (f) (adj.)
+n(y)t
+n:D36-P1
+sail (v.)
+nai
+n:D36:D36-Y3-Y1\R90
+be smooth (v.)
+naa
+W24
+of (pl) (adj.)
+nw
+n:U19-W24-Z7-N5
+time
+new
+n:U19-W24-w-V28-V1
+rope (n.)
+nwH
+W24*t:N1
+Nut (n.)
+nwt
+n:U19-W24-Z7-D46:t-S28
+swaddling clothes (n.)
+nwdt
+V30:A3
+master (n.)
+nb
+V30:Z1
+lord (n.)
+nb
+V30
+every (adj.)\\own (with ind. pronoun)
+nb
+V30-S34-n:x-A54
+sarcophagus (n.)
+nb-anx
+S12:N33*N33*N33
+gold (n.)
+nbw
+V30:t*Z1
+basket (n.)
+nbt
+V30:t
+lady (n.)
+nbt
+V30:t-O1:Z1
+mistress of the house (n.)
+nbt pr
+O9
+Nephtys (n.)
+nbt-Hwt
+n:f
+those (adj.)
+nf
+F35
+good, beautiful (adj.)\\be beautiful (v.)
+nfr
+F35-F35-F35
+{\tiny beauty (n.)\\end (of period of time) (n.)}
+nfrw
+F35-r:t-E1-Z3
+cows (n.)
+nfr(w)t
+n:T34*m-V28-A17-G37
+orphan (n.)
+nmH
+n:T34*m-t:t-D54:Z2
+journey, steps (n.)
+nmtt
+D54-t:Z1
+step (n.)
+nmtt
+D35:n
+not (part.)
+nn
+M22-M22
+these (adj.)
+nn
+n:r-w-G14-A24-Z3
+terror (n.)
+nrw
+n:r:t-G14
+vulture (n.)
+nrt
+n:h-p:N5
+early morning (n.)
+nhpw
+n:O4:O34-D5
+wake (v.)
+nhs
+n:O4*t-M1
+tree, sycamore (n.)
+nht
+G21-V28-b-t:F51
+neck (n.)
+nHbt
+G21-V28-b-t:M10
+bud (n.)
+nHbt
+n:N41-m-A24
+rescue, take (3-lit)
+nHm
+n:N41-m-D36:n
+used to emphasize truth (procl.)
+nHmn
+G21-V28-V28-N5
+eternity (n.)
+nHH
+V28-N5-V28
+eternity (n.)
+nHH
+n:x-n:t-A17
+childhood (n.)
+nxnt
+n:x\90*x\90-w-S45
+whip (n.)
+nxxw
+n:M3-x:t-A24
+be victorious (v.)
+nxt
+n:xt-x:t-i
+Nakhti (name)
+nxti
+n:M3-x:t-w-D40:Z2
+victory (n.)
+nxtw
+F20:Z1*F51
+tongue (n.)
+ns
+M23-t:n-A42
+king of Upper Egypt (n.)
+nswt
+M23-t:n-A43
+king (n.)
+nswt
+M23-t:n
+king (n.)
+nswt
+M23:t-L2:t
+king of Upper and Lower Egypt (n.)
+nswt-bity
+n-O34:Q3*O50
+together (adv phrase)\\never (adv.)
+n sp
+n:N37-m-\!\!t:.-P3
+barque of Osiris (n.)
+nSmt
+n:N37-t:D3
+hairdresser (n.)
+nSt
+Aa28-D46:D46-D5
+sleep (2ae-gem)
+qdd
+n:D28:n
+to the spirit of (phrase)
+n kA n
+n:W11-G1-w-E1
+long-horned bull (n.)
+ngAw
+n:t:f
+he/it (pron. 3rd pers. sing. m. ind.)
+ntf
+n:t-S12:N33*N33*N33
+Netnebu (name)
+nt-nbw
+n:t-S29
+she/it (pron. 3rd pers. sing. ind.)
+nts
+n:t-S29-n:Z2
+they (pron. 3rd pers. plur. ind.)
+ntsn
+n:t:V31
+you (pron. 2nd pers. sing. m. ind.)
+ntk
+n:t:T
+you (pron. 2nd pers. sing. f. ind.)
+ntT
+n:t-T:n:Z2
+you/your (pron. 2nd pers. plur. ind.)
+ntTn
+R8-A40
+god (n.)
+nTr
+R8-Z1
+god (n.)
+nTr
+R8-t:r:t-I12
+goddess (n.)
+nTrt
+Aa27
+protect, save (v.)
+nD
+Aa27*W24-A2
+inquire (v.)
+nD
+M29-m-Y1\R90
+be sweet (v.)
+nDm
+M29-m
+sweet (adj.)
+nDm
+Aa27*W24-Aa27*W24-A2
+converse (v.)
+nDnD
+Aa27*W24-A2-x:r-t-Y1:Z2
+greet (v.)
+nD xrt
+n:D-V28-t:F18
+tooth (n.)
+nDHt
+n:D-S29-G37-A1
+commoner (n.)
+nDs
+n:D-S29-G37
+small (adj.)
+nDs
+r
+against, to (prep.)\\than
+r
+r:Z1
+mouth, utterance (n.)
+r
+r:Z1-G38
+goose (n.)
+r
+r:D36*Z1
+beside (prep.)
+r-a
+r:D36-N5
+sun (n.)
+ra
+N5:Z1
+day, sun (n.)
+ra
+N6:Z1
+Re (god)
+ra
+C2
+Re (god)
+ra
+N5*Z1:nb
+every day
+ra nb
+r-w-D46:T12-Y1\R90
+vigorous, firm
+rwd
+r:D46-O40
+stairway (n.)
+rd
+r-w-D46:t-T12-O39
+sandstone (n.)
+rwdt
+r:Z1-O1:Z1
+temple, shrine (n.)
+r-pr
+r:Z1-p:q-r:xt
+Ro-Poker (place)
+r-pqr
+r-m-K5
+fish (n.)
+rm
+r:m-D4
+weep (v.)
+rmi
+r-Y5:n-x:U22-Y1\R90
+thoroughly (adv.)
+r mnx
+r:T-A1*B1:Z2
+people (n.)
+rmT
+r:n-A2
+name (n.)
+rn
+r:n-Q3:t-M7-M36:Z2
+vegetables (n.)
+rnpwt
+M4-t:Z1
+year (n.)
+rnpt
+M4-t:O50
+regnal year (n.)
+Hzbt
+r:r-M17-E12
+pig (n.)
+rri
+r:F4:t
+before (prep.)
+r-HAt
+r:x-Y1\R90
+know (v.)
+rx
+r:x-M17-M17-t-G24:Z2
+subjects, population (n.)
+rxyt
+M23-r:x:M40\R90
+king's advisor
+rx-nswt
+G50-t:Z4-A1
+washerman (n.)
+rxty
+r-F26-W24:O49
+inside (prep.)
+r-Xnw
+r:Z1-S29-Z4:N31
+quite, entirely (adv.)
+r-sy
+M24-Z4:N23
+southern (adj.)
+rsy
+r:N37-D19-A2
+rejoice (v.)
+rSw
+r:N37-w-t-D19-Y1\R90
+joy (n.)
+rSwt
+r:N29-D41-W23:Z1-A14
+rebel (n.)
+rq-ib
+r-Aa13:Z1
+beside (someone) (prep.)
+r-gs
+U31:t*Z4-D40:A2
+baker (n.)
+rtHty
+r:D46-M31-Y1\R90
+grow (v.)
+rd
+r:D46-D56
+foot (n.)
+rd
+r:D37
+give, install (v.)
+rd(i)
+r:D46-D56-D56
+feet (n.)
+rdwy
+O4-G1-D54
+descend (3ae-inf)
+hAi
+O4-G1-b-D54
+send, send word (3-lit)
+hAb
+O4-G1-V31:r-W3
+Haker festival (n.)
+hAkr
+O4-M17-M17-D53:A3
+husband (n.)
+hy
+O4-b-G26
+ibis (n.)
+hb
+U13:n-Z4:M3
+ebony (n.)
+hbny
+O4*Q3:Y1
+law (n.)
+hp
+O4-m-O4-m-\!\!t:.-A2
+war-cry (n.)
+hmhmt
+O4:W24-A8
+jubilation (n.)
+hnw
+O4:n:n-D1
+attend to, consider (v.)
+hnn
+O4:r-w-N5
+day (n.)
+hrw
+M16-G1-D1
+behind (prep.)
+HA
+M16-G1-M17-M17-S28
+naked (adj.)
+HAy
+M16-G1-M17-M17-S28-A1
+naked person (n.)
+HAy
+M16-G1-m-G51-A24
+catch fish (v.)
+HAm
+M16-G1-\!\!N29:.-A24
+plunder (v.)
+HAq
+F4:t*Z1
+front, foremost, best (n.)
+HAt
+F4:t*Z4-W23
+heart (n.)
+HAty
+F4:D36
+governor (n.)
+HAty-a
+V28-A24
+strike (v.)
+Hii
+V28-A19-M17-M17-t:n
+rain (n.)
+Hyt
+V28-D36-w-P3:Z2
+ships (n.)
+Haww
+V28-D36:Q3-Z4:N36-n
+Nile inundation (n.)
+Hapy
+V28-A25-A24
+hit, smite (3ae-inf)\\visit (v.)
+Hwi
+H-w-t:V1
+beating
+Hwt
+R8-O6-t:O1
+temple (n.)
+Hwt-nTr
+O10
+Hathor (n.)
+Hwt-Hr
+V28-b-W3
+festival (n.)
+Hb
+V28-b-S29-S28
+clothe (v.)
+Hbs
+V28-b-S29-w-S28:Z2
+clothing (n.)
+Hbsw
+V28-Q3:Aa5-M17-M17
+Hapy (god)
+Hpy
+Aa5:t-P8
+oar (n.)
+Hpt
+V28-f:Aw-w-I15
+snake (n.)
+HfAw
+U36-Z1-A3
+slave (male) (n.)
+Hm
+V28-U1-G1-t-U32-N33:Z2
+salt (n.)
+HmAt
+R8-U36-Z1-A3
+priest (n.)
+Hm-nTr
+N41-m-M3:x*t-D55
+retreat (v.)
+Hm-xt
+N41:O34-A3
+sit down, besiege (with Hr) (4ae-inf)
+Hmsi
+U36#D32
+ka priest (n.)
+Hm-kA
+N41:t-B1
+woman, wife (n.)
+Himt
+U36-t:Z1-B1
+slave (female) (n.)
+Hmt
+N42*t:f-U6-r:t:f
+his beloved wife
+Hmt=f mrt=f
+R8-U36-B1:t
+priestess (n.)
+Hmt-nTr
+V28-M2:n-M17-M2
+rush (n.)
+Hni
+V28-n:D36
+with (prep.)
+Hna
+V28-n:D36
+together with (adv.)
+Hna
+V28-M2:n-W24-w-W22:Z1
+pot (n.)
+Hnw
+V28-M2:n-W24-w-W22:Z2
+belongings (n.)
+Hnw
+V28-W24:t-B1
+mistress (n.)
+Hnwt
+V28-N29:t-W22
+beer (n.)
+Hnqt
+V28-M2:n-V31:D39
+offer, present (v.)
+Hnk
+D2:Z1
+face, surface, sight (n.)
+Hr
+G5-A40
+Horus (god)
+Hr
+D2:r-Z4:N1
+above (adj.)
+Hry
+D2:r-O1
+household servant (n. m.)
+Hry-pr
+D2:r-N1-S29-N37:t*U30-Y1v
+master of secrets
+Hry sStA
+D2:D1
+chief, foremost of the (n.)
+Hry-tp, Hrt-tp
+D2:Z1-D36:Z1-w-\!\!Z4:.
+immediately (adv phrase)
+Hr awy
+D2:r-r:t-M2
+flower (n.)
+Hrrt
+D2:Z1-Aa18:Z1
+later (adv.)
+Hr sA
+N1:t:O1
+household servant (f) (n.)
+Hrt-pr
+C11
+million, many\\Heh (god)
+HH
+V28-W14-S29-A2
+sing (v.)
+Hsi
+V28*W14:O34-A2
+praise (v.)
+Hsi
+V28-S29-b-Aa2:Y1
+count, reckon (v.)
+Hsb
+Aa2:Y1
+count, reckon (v.)
+Hsb
+V28-S29-Y5:n-U32-N33:Z2
+natron (n.)
+Hsmn
+V28-S29-Y5:n-U32-N34:N33*N33*N33
+bronze (n.)
+Hsmn
+V28-W14-O34:Y5:n:N33A
+amethyst
+Hsmn
+V28-W14-O34:t-A2
+favour, blessing (n.)
+Hzt
+W14-O34:t-A2
+favour, blessing (n.)
+Hst
+S38-N29:Y1
+rule (v.)
+HqA
+S38-N29-G1
+ruler (n.)
+HqA
+S38-t:Z1
+sceptre (n.)
+Hq(A)t
+V28-N29:r-A2
+be hungry (3-lit)
+Hqr
+V28-N29:r-G37
+hunger (v.)
+Hqr
+V28-N29:r-A1
+hungry person (n.)
+Hqr
+V28-N29:t-I7
+Heket (n.)
+Hqt
+R4:t*Q3
+offerings, peace (n.)\\become calm (3-lit)
+Htp
+R8-R4:X4:Z2
+divine offerings (n.)
+Htp-nTr
+R4:(t*Q3*t)-X4:Z2
+offerings (n.)
+Htpt
+M23-t:R4-X8
+an offering the king gives (phrase)
+Htp di nswt
+T3-D:\!\!\!N5
+be bright (v.)
+HD
+T3-S12:N33*N33*N33
+silver (n.)
+HD
+T3-D:\!\!\!Z9-G37
+destroy (v.)
+HDi
+T3-t-S1
+crown of Upper Egypt (n.)
+HDt
+M12-G1-O27
+hall (n.)
+xA
+M12-Z1
+thousand (n.)
+xA
+M12-G1-x:D54
+hasten (v.)
+xAx
+N25:t*Z1
+foreign land, desert (n.)
+xAst
+N28:D36-Y1\R90
+shine, appear (3ae-inf)
+xai
+x-b-A32
+dance (v.)
+xbi
+x-b-S29-U7:D40
+cultivate (v.)
+xbs
+x:Q3-D54
+walk (v.)
+xpi
+L1:r
+evolve, happen (3-lit)
+xpr
+L1:r
+come into being, exist
+xpr
+L1-Z1
+beetle (n.)
+xprr
+<-N5-L1-D28->
+Kheperkare (Senwosret I)
+xpr-kA-ra
+x*Q3:N37-T16
+scimitar (n.)
+xpS
+x*Q3:N37-F23
+foreleg, strong arm (n.)
+xpS
+s-d-b-S28
+fringe (n.)
+sdb
+x:Q3-t:D54
+death (n.)
+xpt
+x*t:f
+in front of, accordingly, when (with sDm=f)
+xft
+x*t:f-A14
+enemy (n.)
+xfty
+x-m-D35
+not know (v.)
+xm
+x:D52:t-Z3-A2
+expect (v.)
+xmt
+x:n-T34-m-D19-A2
+gladden (v.)
+xnm
+x:n-T34-m-S29-A21-A3
+friend (n.)
+xnms
+W17-n:t
+earlier (adv.)
+xnt
+W17-n:t-P2
+{\tiny go forward/upstream/south (4ae-inf)}
+xnti
+W17-n:t:Z4
+the one at the front (n.)
+xnty
+x:n:t*imnt-tyw
+Khentyimentu (god)
+xnt(y)-imntw
+W17-n:t-w-Y1\R90
+before (adv.)
+xntw
+W17-n:t-N37:Z1*N21
+garden (n.)
+xnt-S
+x:n-t:N37-D19
+take pleasure (v.)
+xntS
+x:r
+with someone\\fall (2-lit)
+xr
+s-h-A-D54
+bring down (caus. 3-inf)
+shAi
+x:r-P8-w-A2
+voice (n.)
+xrw, sound
+S42
+control (v.)
+xrp
+sw:\!x-sxm
+director of king's advisors
+xrp rH nswt
+x:r-t-Y1:Z2-W23:Z1
+wish, desire (n.)
+xrt-ib
+x:x-F10
+throat (n.)
+xx
+U35-A24
+punish (v.)
+xsf
+U35
+repel (v.)
+xsf
+U35-P2
+travel southward (v.)
+xsf(w)
+M3:x*t-D54
+throughout (prep.)
+xt
+M3:t*Z1
+wood, mast (n. masc.)
+xt
+x:t-Q7
+fire (n.)
+xt
+x:t-Y1:Z2
+things, property (n.)
+xt
+x:t-m-\!\!S20:.
+seal (n.)
+xtm
+x:t-m-S20
+seal
+xtm
+S19-T28:D36
+seal-bearer, assistant (to the treasurer) (n.)
+xtmw Xry-a
+L2-t:S19
+seal-bearer of the king (n.)
+xtmty-bity
+x:D46-P1
+go downstream/north (3ae-inf)
+xdi
+K4-G1-m-D32
+bow down (v.)
+XAmi
+K4-G1-t:N23
+swamp (n.)
+XAt
+K4:t-A55
+corpse (n.)
+XAt
+D33:n-P1
+row (v.)
+Xni
+F26:n-W24:O49
+interior, capital, home (n.)
+Xnw
+W9-m
+join (v.)\\ united with (adj.)
+Xnm
+W9-w-C4
+Khnum (n.)
+Xnmw
+W9-m-t-n
+well (n.)
+Xnmt
+W18-Q1:t
+(one) foremost of position
+Xnt(y) st
+T28:r
+carrying, under, at foot of (prep.)
+Xr
+T28:r-Z4
+who is under (adj.)
+Xry
+T28:D36
+assistant (n.)
+Xry-a
+V28-T28-b
+lector-priest (n.)
+Xry-Hbt
+D1:T28
+chamberlain (n.)
+Xry-tp
+T28:r-F4:t*Z1
+formerly, before (adv.)
+Xr-HAt
+T28:t
+duty (n.)
+Xrt
+R8-T28:r-N25
+necropolis (n.)
+Xr(t)-nTr
+Xr:t-N5
+course of the day (n.)
+Xrt-hrw
+F32:r:D46-A17
+child (n.)
+Xrd
+F32:O34-G37
+be vile (v.)
+Xsi
+Aa30-w-Y1:N33*N33*N33
+ornament (n.)
+Xkrw
+M23-t:Aa30
+lady-in-waiting (n.)
+Xkrt-nswt
+F32:D46-b-A24
+kill (v.)
+Xdb
+s
+she/her/hers, it [S] (pronoun [S3f])
+s
+z:A2*Z1
+man (n.)\\one (as in no-one)
+z
+G39-\!\!Z1:.-A3
+son (n.)
+sA
+V16:Z1
+protection (n.)
+sA
+E17
+jackal (n.)
+sAb
+D61-Z1:F51
+toe (n.)
+sAH
+G39-\!\!\!t:.-B1
+daughter (n.)
+sAt
+S32-G1-A2
+recognize (v.)
+siA
+S29-M17-K1:n-Aa2:N23
+clay (n.)
+sin
+S29-M17-K1:n-Z7:a
+rub
+sin
+Aa18:Z1
+back (n.)
+sA
+S29*Z4
+she/her/it (pron. 3rd pers. sing. f. dep.)
+sy
+S29-O29:D36
+advance (v.)
+saA
+S29-O29v
+advance (v.)
+saA
+S29-S34-n:x
+{\tiny perpetuate (name), nourish, revive (caus. 2-lit)}
+sanx
+S29-G25-x:Y1
+{\tiny spiritualise, glorify, transfigure (caus. 2-lit)}
+sAx
+M23-w
+he/him/it (pron. 3rd pers. sing. m. dep.)
+sw
+S29-V4-G1-N31:D54
+pass by, surpass (v.)
+swA
+Z9:D54
+pass by, surpass (v.)
+swA
+S29-D60
+decorate (v.)
+swab
+T11:W24*Z1-A2
+physician, doctor (n.)
+swnw
+S29-M42:n-O36-O1
+tower
+swnw
+s-wr:r-i-mw-A2
+drink
+swr
+S29-w-V28-t:H8
+egg (n.)
+swHt
+s-Z7:t-H8:Z2
+wheat
+swt (n.)
+S29-w-V24-A2
+hand over, pass on, assign (v.)
+swD
+S29-b-N14-G1-A24
+teach (v.)
+sbA
+S29-b-N14
+star (n.)
+sbA
+S29-b-M17-T14-A14
+rebel (v.)\\rebel (n.)
+sbi
+S29-b-V28-F18-A2
+cry out (v.)
+sbH
+S29-b-x:t-O13
+gate (n.)
+sbxt
+S29-b-V31:I5
+Sobek (n.)
+sbk
+S29-b-t:F18-A2
+laugh (v.)
+sbt
+O34:Q3*O50
+deed, time, occasion, matter (n.)
+zp
+N24:t*Z1
+district (n.)
+spAt
+S29-Q3:V1
+bind (v.)
+sp(i)
+S29-Q3-V28-V1
+lasso (v.)
+spH
+D24:t*Z1
+lip (n.)
+spt
+S29-Q3:D46-M44
+display skill, be clever (v.)
+spd
+M44-t:N14
+Sirius (star), Sothis (goddess)
+spdt
+S29-f:N5
+yesterday (n.)
+sf
+T30:t-G4
+butcher (n.)
+sftw
+S29-m-M21
+tend (v.)
+sm
+M21-m-M2
+plant (n.)
+sm
+F36-G1-F51
+lung (n.)
+smA
+S29-W19-M17-A2
+report (v.)\\report (n.)
+smi
+O34:t-N25
+desert (n.)
+smyt
+S29-m-E34:n-A2
+used to express uncertainty (procl.)
+smwn
+S29-Y5:n-x:U22-Y1\R90
+repair, endow, make useful (caus.3-lit)
+smnx
+S29-Ab-r:A1
+courtier (n.)
+smr
+S29-Ab-T21:t*Z1
+sole companion (n.)
+smr wat(y)
+S29-V22
+papyrus boat (n.)
+smH
+S29-m-x:D35-A2
+forget (v.)
+smx
+S29-m-S29-w-A20
+elder, eldest (n.)
+smsw
+S29-n:Z2
+{\small they/them/their (pron. 3rd pers. plur. suff. \& dep.)}
+sn
+T22-n:A2
+brother (n.)
+sn
+T22-n:D19
+kiss (2-lit)
+sn
+O34:n:W24-w-X4:Z2
+cakes (n.)
+snw
+T22-n:n:W24*t-w-A1*B1:Z2
+siblings (n.)
+snw snwt
+O34:n-b-O36-D54
+leap (over wall) (v.)
+snb
+S29-n:b-Y1\R90
+health (n.), recover (v.)
+snb
+O34:n-b-t-W14
+jar (n.)
+snbt
+O34:n:f-D26:Z2
+blood (n.)
+snf
+S29-F35-f:r
+improve (v.)
+snfr
+S29-n:T34*m-G52
+feed (v.)
+snm
+O34:n-V28*V1-A24
+bind (someone) (v.)
+snH
+O34:n-N41-m-L4
+grasshopper, locust (n.)
+snHm
+S29-n:N29-D27
+suck, suckle (v.)
+snq
+T22-n:t-B1
+sister (n.)
+snt
+S29-n:T-V5
+plan (v.)
+snT
+R8-T22-n:T:r-N33:Z2
+incense (n.)
+snTr
+G54-A2
+fear (n.)
+snd
+S29-M29-m-A51
+sit (v.)
+snDm
+S29-r-E27
+foretell, make known (v.)
+sr
+O34:r-E10
+sheep (n.)
+sr
+S29-r-A21
+official (n.)
+sr
+O34:r-w-G54
+goose (n.)
+srw
+S29-r:f-Q7
+warmth, fever (n.)
+srf
+s-r:f-Q7-.:Y1
+warm (adj.)
+srf
+S29-r:x-A2
+complain, accuse (v.)
+srx
+S29-R4:t*Q3
+satisfy, pacify (v.)
+sHtp
+S29-M12-G1-A2
+remember, think, mention (v.)
+sxA
+S29-M12-G1-w-A2
+memory (n.)
+sxAw
+S29-L1:r
+create, cause (caus. 3-lit)
+sxpr
+S42-m-D40
+gain control (3-lit, intr.)
+sxm
+S29-x-m-x-F34-Z1
+delight (v.), enjoyment (n.)
+sxmx-ib
+S29-W17-n:t
+promote (v.)
+sxnt
+S29-x:r-A15
+overthrow (caus. 2-lit)
+sxr
+S29-x:r-Y1\r1
+plan, counsel (n.)
+sxr
+O34:x:O34-D54
+run (3-lit)
+zxz
+s-U34-f
+to keep at a distance (v.)
+sxsf
+M20-t:N23
+field (n.)
+sxt
+S29-S29-m:t-E6
+horse (n.)
+ssmt
+S29-S29-n:D19
+smell, breathe (v.)
+ssn
+Y3-Y1\R90
+write (v.)
+zXA
+Y3-A2
+scribe (n.)
+zXAw
+S29-M8-G1-\!\!Z4:.-G41-A2
+pray (v.)
+sSAy
+S29-T30-m-Y1:Z2
+guidance, procedure, condition (n.)
+sSmw
+O34:N37:n-M9
+lotus (n.)
+sSn
+S29-N37:t*U30-G1-Z9:Z2
+secret (adj.)
+sStA
+S29-N29-b-V28-W15
+relax (v.)
+sqbH
+S29-Aa28-D46:W24-A10-A3
+sailor (n.)
+sqdi
+S29-Aa28-P1
+travel (v.)
+sqd(i)
+S29-D28-G1-U13-A24
+plow (v.)
+skA
+S29-I6-m-D3
+grey-haired (adj.)
+skm
+O34:V31:r-G10
+Soker (n.)
+skr
+S29-W11:r-A2
+quiet, stillness (n.)
+sgr
+S29*t-F29
+shoot, kindle, set light to (3ae-inf)
+sti
+S29*t
+it [D] (pronoun [S3n])
+st
+O34:t-B1
+woman (n.)
+st
+Q1-t:O1
+place, status (n.)
+st
+O34:t:M41
+scent (n.)
+st
+Q1-t:W23
+affection (n.)
+st-ib
+s-t:Z4-Aa2-r-Z1-A1
+the mid-day meal
+sty-r
+Q1:t-D36:Z1
+ability, action (n.)
+st-a
+a-wA-D40
+rob (v.)
+awAi
+S29-t:Q3-U21
+choose (v.)\\chosen (adj.)
+stp
+t*Q1:N36-x:r-t-W23:Z1
+confidence (n.)
+st-xrt-ib
+C7
+Seth (god)
+stX
+S29-D46-G1-G33
+tremble (v.)
+sdA
+S29-D46:Z7-x:Aa2-Y1\R90
+embalm (v.)
+sdwx
+s-d:sDm
+hear (v.)
+sdm
+S29-U28-G1-D54
+travel (v.)
+sDA
+S19:Y1
+precious (adj.)
+sDAw
+S29-D:\!\!\!Z9-A24
+break (v.)
+sDi
+H-wr:r-w-G37
+poor man (n.)
+Hwrw
+F21-m-n
+obey (someone) (v.)
+sDm n
+S29-M36:r-A55
+lie down, spend night, sleep (3-lit)
+sDr
+s-Dr:r-i-i-t:n:t-G5-Sn:n-W4
+the vigil of Horus-Sn
+sDryt
+S29-M36:r:t-A55
+vigil (n.)
+sDrt
+mi-n:ra
+today
+min
+N33:Z2
+sand (n.)
+Say
+H6-w
+be free from (v.)
+Sw
+N37-H6-w
+Shu (n.)
+Sw
+M8-G1-V4-G1-b-t:M3
+shawabti figure (n.)
+SwAbt(y)
+H6-t:Z1
+feather (n.)
+Swt
+N37-b-n:Z9
+various (adj.)
+Sbn
+A50-S29-Z4:Y1
+dignified (adj.)
+Spsy
+A50-S29-t:Y1
+dignity (n.)
+Spswt
+A50-S29-M23-t:n
+dignitary of the king (n.)
+Sps-nswt
+A50-S29-S29-Y1:Z2
+wealth, dignity (n.)
+Spss
+N37:f:D46-w-V12
+book (n.)
+Sfdw
+n:nm-m-D38
+who?
+nm
+M26
+Upper Egypt (n.)
+Sma
+M27-M17-M17-t-B1
+singer (female) (n.)
+Smayt
+N37:n-N5
+summer (n.)
+Smw
+T18-S29-D54
+follow (4ae-inf)
+Smsi
+T18-w
+follower (n.)
+Smsw
+T18-S29-Z7:D54-Z3
+following (n.)
+Smsw
+T18-w-O1:O29:O1
+follower of the palace (n.)
+Smsw pr aA
+V7:n-Z4:D3
+hair (n.)
+Sny
+V7:n-M17-M17-t-A21-A1:Z2
+entourage (n.)
+Snyt
+U13:D36-O1
+storehouse (n.)
+Snaw
+V7:n-W24-w-\!\!t:.-O51
+granary (n.)
+Snwt
+V7-n:T-A24
+resent (v.)
+Snt
+V7:n-D46-M17-M17-t-S26
+kilt (n.)
+Sndyt
+N37-S29-V6:W3
+alabaster (n.)
+Ss
+V6
+alabaster (n.)
+Ss
+O42:Q3-N5
+daylight (n.)
+Szp
+O42:Q3
+take, receive (3-lit)
+Szp
+V6:Z1-S28
+linen (n.)
+Ssr
+V6-Z1-U9:Z2
+corn (n.)
+Ssr
+V6-S29-r:T11
+arrow (n.)
+Ssr
+N37:t-U30-G1-Y1\R90
+be difficult, inaccessible (v.)
+StA
+N37:t-G4-I2
+turtle (n.)
+Styw
+F30:D46-A24
+take along, pull, remove, rescue (3ae-inf)
+Sdi
+F30:D46-D27
+suckle, educate (v.)
+Sdi
+F30:D46-w-F27
+water-skin (n.)
+Sdw
+N29-G1-G1-N23:Z1
+hill (n.)
+qAA
+N29-G1-A28
+be high, raise (v.)
+qAi
+N29-M17-S29-O49
+Qis (n.)
+qis
+N29-b-W15
+cool (adj.)
+qb
+W15-T22-T22-T22-f
+Qebehsenuf (god)
+qbH-snwf
+U1:N29-G1-T14-Y1\r1
+create (v.)
+qmA
+U1:N29-T14
+create (v.)
+qmA
+G41-i-i-t:N33:Z2
+gum
+qmyt
+N29:r-r:t-O1
+cavern (n.)
+qrrt
+N29:r-S29-Q6
+bury (v.)
+qrs
+N29:r-S29-t:Q6
+burial
+qrst
+T19-Z1
+bone (n.)
+qs
+q:d-Aa28-A35
+build (2-lit)
+qd
+V31
+you/your (pron. 2nd pers. sing. m. suff.)
+k
+D28:Z1
+soul (n.)
+kA
+D28:D52-E1
+bull (n.)
+kA
+D28:n-M17-M17-M43-A3
+gardener (n.)
+kAny
+D28:r-M17-O18
+chapel (n.)
+kA(r)i
+D28:t-A9
+work (n.)
+kAt
+V31-M17-M17-E32
+monkey (n.)
+ky
+k:f-A-D26
+flow
+kfA
+V31:f-G1-F22:Y1-W23:Z1
+careful (adj.)
+kfA-ib
+I6-m
+black (adj.)
+km
+V31:V31-w-N2
+darkness (n.)
+kkw(y)
+xA-A-m
+fold
+xAm
+V31:t*t-G37
+be small (v.)
+ktt
+G38-b
+Geb (n.)
+gb
+G28-m
+find (3ae-inf)
+gmi
+G28-m-V28-D5
+look at (v.)
+gmH
+W11:r-V28-N2
+night (n.)
+grH
+W11:r-U17-G37
+lie (n.)
+grg
+W11-V28-S29-E29
+gazelle (n.)
+gHs
+t*X2:N18
+bread (n.)
+t
+N16:N23*Z1
+earth (n.)
+tA
+N16:N16
+the two lands (n.)
+tAwy
+R18
+Tawer (n.)
+tA-wr
+D1:Z1
+head (n.)
+tp
+D1:Q3*Z4
+chief (adj.)
+tpy
+T8
+chief (adj.)
+tpy
+D1:Q3-D36:Z1
+ancestors (n.)
+tp(w)-a
+D1-M4-W4
+beginning of lunar year (n.)
+tp-rnpt
+t:f
+that (f) (adj.)
+tf
+t:f-n:t
+Tefnut (n.)
+tfnt
+t:U2-S23
+mat (n.)
+tmA
+t:n
+this (f) (adj.)
+tn
+t:r-M6-A2
+really, actually, or acts as '?' (encl.)
+tr
+t:O4-D56-D54
+disobey (v.)
+thi
+(t*x):n-O25
+obelisk (n.)
+txn
+t:D28-Q7
+candle (n.)
+tkA
+T
+you/your [S] (pronoun [S2f])
+T
+G47-w-P5
+breath, wind, air (n.)
+TAw
+TA-A-b-bAs
+covered jar (n.)
+TAb
+T-w
+you [D] (pronoun [S2m])
+Tw
+T-b-t-S33
+sandal (n.)
+Tbt
+T:n
+you [D] (pronoun [S2f])
+Tn
+T:n:Z2
+you/your [SD] (pronoun [P2c])
+Tn
+T:n:Z4
+you two/your [D] (pronoun [D2])
+Tny
+U33-V28-n:t-S15-N33:N33:N33
+glass (n.)
+THnt
+S24:O34-V1:D40
+tie (v.)
+Ts
+S24:O34-A2
+sentence (n.)
+Ts
+S24
+tie, knot
+Ts(i)
+S24:O34-w-N23:Z1
+sandbank (n.)
+Tsw
+T:O34-m-E14
+dog (n.)
+Tsm
+D46-G1-b-M43-N33:Z2
+figs (n.)
+dAb
+X8
+give (v.)
+d(i)
+D37
+give (v.)
+d(i)
+X8-S34
+given life (phrase)
+di anx
+N14-G1-A30
+worship (v.)
+dwA
+N14:D37-t:f
+Duamutef (god)
+dwA-miwt=f
+N14-G14-t:f-A40
+Duamutef (n.)
+dwA-mtwf
+N14-G1-t:N5
+morning (n.)
+dwAt
+D46-b-E25
+hippopotamus (n.)
+db
+D46:F18-b-V28-A2
+beg (v.)
+dbH
+D46:F18:t-R4:R3
+required offerings (n.)
+dbHt-Htp
+D46:Q3-F20-A2
+taste (v.)
+dp
+D46:Q3*t-P1
+boat (n.)
+dpt
+D46-m-T30-A2
+pronounce (v.)
+dm
+D46:n-S29-U32-O39
+be heavy (v.)
+dns
+d:r-A24
+cure, remove, repulse (2-lit)
+dr
+D46:D2-r:G37
+be bitter (v.)
+dHr
+D46-D2:r-F27
+leather (n.)
+dHr
+D46-S29-T30
+knife (n.)
+ds
+D46:O34-W22
+jar, beer jug (n.)
+ds
+G27-r
+be red (v.)
+dSr
+D46:N29-r:D51:N33*N33*N33
+fruit (n.)
+dqrw
+D46:W11-D5
+look (with "r", look at)
+dgi
+U28-G1-Z9:P1
+ferry, cross over (3ae-inf)
+DAi
+U28-t:Z9
+wrongdoing (n.)
+DAt
+U28-G1-t:P1
+journey by boat (n.)
+DAt
+U28-G1-D46-w-O27
+audience hall (n.)
+DAdw
+U28-U28-W24*t:Aa8-A1*B1:Z2
+magistrates (n.)
+DADAt
+D:\!\!D36-P5
+storm (n.)
+Da
+S41-m-S12:N33A
+electrum (n.)
+Dam
+N26-w-G37
+be bad (v.)
+Dw
+N26:Z1
+mountain (n.)
+Dw
+N26-w-S29
+denounce
+Dws
+D50-Z1
+finger (n.)
+Dba
+D50-t:S20
+signet ring (n.)
+Dbat
+G22-b-t:O39
+brick (n.)
+Dbt
+D:\!\!f
+provisions (n.)
+Df(Aw)
+D:n-V28-H5
+wing (n.)
+DnH
+D:\!n:D46-F2
+rage (n.)
+Dnd
+M36:r
+since (prep.)
+Dr
+M36:r-n:t*t
+because (prep.)
+Dr ntt
+D46:t*Z1
+hand, trunk (of elephant) (n.)
+Drt
+G26-t:Z4
+Thoth (n.)
+DHwty
+G26-t:t-W4
+festival of Thoth (n.)
+DHwtt
+D:\!\!\!S29
+-self (with S pronoun) (pronoun)
+Ds
+D45:r
+sacred (n.)\\separate, clear (v.)
+Dsr
+G27-r:t-S3
+red crown (n.)
+DSrt
+D:\!\!\!t:N17
+eternity (n.)
+Dt
+D:\!\!\!\!D46*\!.
+say (2-lit)
+Dd
+D:\!\!\!\!D46*\!.-G1-Aa2
+be fat (v.)
+DdA
+R11-R11-w-O49
+Busiris (n.)
+Ddw
+D:\!\!\!\!D46*\!.-f:t-I14
+snake (n.)
+Ddft
+.:.:S43-\!\!\!D
+recitation (n.)
+Dd mdw
+N9:t-nTr-nTr-nTr
+ennead (n.)
+psDt
+k-i-i
+other, another (m.)
+ky
+k:t
+other, another (f.)
+kt
+O42:Q3-A53
+statue (n.)
+Ssp
+N26-w-X1:G37
+evil, sadness (n.)
+Dwt
+D46-W19-N21:Z1
+town (n.)
+dmi
+I6-m-t:O49
+Egypt (place)
+kmt
+S:r:r-G37
+small (adj.)
+Srr
+m:r
+overseer
+imy-r
+M20-X1:Z4-A1
+peasant, fowler (n.)
+sxty
+N37-D58-w-Z8:Z2
+food (n.)
+Sbw
+S:a-t:V12
+despatch, document (n.)
+Sat
+w-T:O34-U39-Y1\R90
+carry, wear (v.)
+wTz
+iw-w-n:n-pr
+sanctuary (n.)
+iwnn
+O29:D36-G1-N31
+here
+aA
+G36:D21-A1
+prince, noble
+wr
+w-b-n:ra
+rise, shine (v.)
+wbn
+G35-N29:D54
+enter (v.)
+aq
+M23
+king (n., abbrev.)
+nswt
+b-i-n:G37-t
+evil
+bint
+mn:n-Y1\R90
+remain, be firm (v.)
+mn
+r-Dr:r-w-N31:Z2
+to the limit, entire (adj.)
+r-Drw
+U36-Z1-A40
+majesty (n.)
+Hm
+H-W14-s-P5
+be cold, freeze (v.)
+Hs
+s-x:n:t-O30-O30-O30-O30
+the four supports of heaven (n.)
+sxnt
+s-b-A-pr
+door, gate (n.)
+sbA
+w-S-b-Z9-A2
+answer (v. and n.)
+wSb
+x-D58-O34:w-X1-D3
+beard (n.)
+xbzwt
+G36:D21-D21:X1-T17
+chariot (n.)
+wrrt
+s-aHa-a:D54
+erect (caus. 3-lit)
+saHa
+S:r-i-t:G37-B1
+girl
+Srit
+wp:Q3*Z9
+open (v.)
+wpi
+Aw-w-ib
+joyful (long of heart)
+Aw ib
+S-\!\!mA-A-A33
+foreigner (n.)
+SmA
+F3:t-N5
+moment (n.)
+At
+O34:T32-m-D54
+lead, guide (caus. 3ae-inf)
+sSmi
+F42:D21-w-A1
+petitioner (n.)
+sprw
+M12-G1-D40
+measure, examine (patient), patrol (v.)
+xAi
+gm-m-Z7-G41:Z2
+mourning (n.)
+gmw
+M14-G36:r-N36
+the Great Green (Mediterranean)
+wAD wr
+n:ns-t:g
+seat, throne
+nst
+F42:D21-A2
+appeal to, petition (v.)
+spr
+D:d-Dd
+stable (adj.)
+Dd
+DA-t:Z2
+balance, remainder (n.)
+DAt
+A-T:p-A9
+load (v.)
+ATp
+r:d-m-t-M2:Z2
+fan palm (n.)
+rdmt
+Sm-m-D54
+walk, set out, depart, go (to), pass (3ae-inf)
+Smi
+U7:r-i-i-N21:t-Z1
+bank, shore (n.)
+mryt
+a-A-b-M19
+pleasant (adj.)
+aAb
+H-Hn:n-s-G37
+narrow (adj.)
+Hns
+w-s-x*W10:Y1
+wide (adj.)
+wsx
+g-s-gs
+side, border (n.)
+gs
+t:S-Z9:N21-Z1
+boundary (n.)
+tAS
+s-d:N21-O23-W4
+jubilee (n.)
+Hb sd
+z:p-O50-p:tp:Z4
+the creation (n.)
+sp tpy
+M22-b-W24:t-mwt:\!nb
+Nekhbet (god)
+nxbt
+T9A:t
+bow (n.)
+pDt
+G39-tA:I14
+snake (n.)
+sA tA
+F21-A26
+servant (n.)
+sDm aS
+mn:n-nfr-f:r-O24-O49
+Memphis (place)
+mn nfr
+r*r:k-k-I14
+snake (n.)
+rkrk
+s-X:a-t:E34
+hare
+sXat
+S43-d-w-Y1:Z2-R8
+hieroglyphs (n.)
+mdw nTr
+m-r-pr:Z1
+steward
+imy-r pr
+s-Z7-DA-A-Y1-ib
+message, information (n.)
+swDA-ib
+h-A-w-Y1:Z2
+affairs, belongings (n.)
+hAw
+n:t*t-r
+to the effect that
+ntt r
+g:r
+also
+gr
+a:D-V26:Y1
+be safe, intact (v.)
+aD
+F36-t:Y1
+union (n.)
+smAt
+w-d:Z9-D40
+deal (harm), commit (offence) (v.)
+wDi
+d-mi-i-N23:Z1
+place of residence (n.)
+dmi
+x:n-d-D56-F51
+calf of leg (n.)
+xnd
+n:nm-m-w-X1:O1:Z3
+place of execution, slaughterhouse (n.)
+nmt
+z:n-Y5:t
+Senet (n., game)
+snt
+a:t-F51
+limb (n.)
+at
+r:k-N5:N23
+time (of king, of ancients)
+rk
+N41-m-P10
+rudder (n.)
+Hmw
+O47:O49
+Nekhen, Hieraconopolis (place)
+nxn
+F42:r-D54
+arrive (v.)
+spr
+O29:a-A-N31
+here
+aA
+mi-n:ra
+today
+min
+m-m
+among (prep.), among them (adv.)
+mm
+m-N14-A-N5
+tomorrow (adv.)
+m-dwA(w)
+m-M3:x*t-D54
+afterwards
+m-xt
+r-i-q:r:Y1
+exceedingly
+r-iqr
+m-isw-w-Y1\R90
+in return for
+m-isw
+s-x:p-D54
+convey (v.)
+sxp
+m-h-A-w:Y1:Z2
+in the neighbourhood of\\at the time of (someone)
+m-hAw
+m-HA-w
+in excess of
+m-HAw
+m-Hr:ib
+in the midst of
+m-Hr(y)-ib
+m-g-A-w-V32:G37
+through lack of
+m-gAw
+Hr:Z1-tp:Z1
+on the head of, on behalf of
+Hr-tp
+b-x:n-nw-w-O39
+siltstone (n.)
+bxnw
+d:S-r:t-G27-N25
+the Red Land, desert (n.)
+dSrt
+O34:N37-D21:X1-Z8
+cake, loaf (n.)
+sASrt
+V28-D28-G1-A2-Z3
+magic, spells (n.)
+HqAw
+x-D58-D
+disfavour (n.)
+xbD
+n:h-p-w-N5
+early morning (n.)
+nhpw
+F13:Q3-X1:Y2
+business, mission (n.)
+wpwt
+D58-G29-G1-W11-A7
+weary, lazy (4ae-inf)
+bAgi
+Hmt
+craft (skill) (n.)
+Hmwt
+U26-G29-t
+cup bearer (n.)
+wbAt
+aq-q:D54-ib:Z1
+intimate friend (n.)
+aq ib
+M40-t-O11
+palace (n.)
+ist
+D38:h-Z4-G37
+be forgetful, neglectful
+mhy
+O34:a-H-A40
+noble (n.)
+saH
+nfr-t
+beautiful woman (n.)
+nfrt
+s-sk-k:O50-Z4-D40
+destroy (v.)
+sksk
+O50:Z4
+twice (repetition)
+sp 2
+T32
+lead, conduct (v.)
+sSm
+M6
+time, season
+tr
+N17-M15-O49
+Lower Egypt
+tA mHw
+wHm-anx
+repeating life
+wHm anx
+O34:n-s-A30
+worship (v.)
+snsy
+r-T25-b-Y1v
+instead of
+r-DbA
+n-U7:r-w-t
+in order that
+n-mrwt
+nfr-f:r-i-i-t:r
+down to
+nfryt-r
+tp:Z1-m
+{\tiny before a person or time, in front of, in the direction of a place}
+tp-m
+wp:p-w-Z9-Hr
+except, but
+wpw-Hr
+Hr:r-w-S:a:N33A
+bedouins (n.)
+Hryw-Sa
+O35
+which?
+sy
+m-D38
+interrogative
+mi
+nw:Z1
+of (plural)
+nyw
+sw-w-\!\!t:.
+used to mark contrast (encl.)
+swt
+Z1*\!\!\!Z1:W24
+second (ordinal), twin, other
+sn nw
+A47-w-A24
+guard (v.)
+sAw
+G40
+this, the (m.)
+pA
+H-p:t-D32
+embrace, armful
+Hpt
+p*t:r-M6
+who? what?
+ptr
+b-w
+place (n.)
+bw
+V22:t-P5
+north wind (n.)
+mHyt
+q-A-q-A-w-P1
+barge (n.)
+qAqAw
+g:r-w-A2-A1
+silent man (n.)
+grw
+a:n-n:D54
+turn back (v.)
+ann
+b-i-w-Z3
+wonders, marvels (n.)
+bi(A)w
+s-d:F33
+tail (n.)
+sd
+V22-V28-w-M2
+linen thread (n.)
+mHw
+S24:O34-N23
+sandbank, drought (n.)
+Ts
+a:S-M41
+cedar (n.)
+aS
+S33-t:Z1
+sandal (n.)
+Tbwt
+E34:n-S:U16
+sledge (n.)
+wnS
+G40-i-i
+possessive (with suffix, m.)
+pAy
+t-A-i-i
+possessive (with suffix, f.)
+tAy
+n-A-i-i
+possessive (with suffix and n, pl.)
+nAy
+S:Z1
+garden, pool (n.)
+S
+M8:N23-Z1
+field, meadow, marsh (n.)
+SA
+i-G1-t-A19
+old woman (n.)
+iAyt
+Sw-w-i-i-t:ra
+shade, shadow (n.)
+Swyt
+b-n:r:t-M30-N33:Z2
+sweet fruit, dates (n.)
+bnrwt
+N28:a-N34:Z2
+weapons, tools (n.)
+xaw
+n:f:t-f:t-D54
+spring away (v.)
+nftft
+s-w:t-w:t-D56-D54
+walk, travel abroad (v.)
+swtwt
+g-A-Aa2-G37
+be narrow (v.)
+gAw
+A-m-m-D49
+seize, grip (v.)
+Amm
+r:n:n-B6
+nurse (v. gem.)
+rnn
+h-n:n-D41:D40
+bow, assent to (v.)
+hnn
+D33-n:n-E21-A24
+destroy (v. gem.)
+Xnn
+S-m-m-Q7
+be hot (v. gem.)
+Smm
+g-n:n-A7
+be soft (v. gem.)
+gnn
+t:k-k-A24
+attack, violate frontier (v. gem.)
+tkk
+s-n:b*b-Y1v
+converse (v.)
+snbb
+s-p-d:d-Y1v
+supply (4-lit)
+spdd
+X:z:r-V29-A24
+dispel (v.)
+Xzr
+p:X-r
+turn, turn about (v.)
+pXr
+d:p*t
+taste (n.)
+dpt
+p:X-r:t
+cycle (n.)
+pXrt
+t-w
+you (pron. 2nd pers. sing. m. dep.), (royal) One
+tw
+S38-q-G7
+ruler (n.)
+HqA
+p-E34-n:t-N25
+Punt (place)
+pwnt
+E9:D36-F44
+heir (n.)
+iwa
+E9-w-a
+reward
+iwa
+sbA-A-i-i-t:Y1
+(written) teachings, instruction (n.)
+sbAyt
+G47
+vizier (n.)
+TAty
+t:n-i-A20
+old age (n.)
+tni
+w-V33:V33-G37
+weakness, feebleness (n.)
+wgg
+i-H-w-G37
+weakness (n.)
+iHw
+b-b-Z7:Z4-F51:F51
+collar bones (n.)
+bbwy
+i-nD-D:Y1-Hr:Z1
+Greetings! (interj.)
+inD Hr
+i-S3
+by, so says
+in
+Hr
+upon, because (with sDm=f)
+Hr
+m
+in, as, when
+m
+Y1:t*Z1
+scroll (n.)
+mDAt
+S:a-T30
+cut off (v.)
+Sa
+O22-Y1v
+advice, counsel (n.)
+zH
+HD-D-ra-tA:N23-Z1
+dawn
+HD tA
+x:r-p*Z7:M3
+mallet (n.)
+xrpw
+H-a-A28
+become aroused, excited (3ae-inf)
+Hai
+i-r
+if, when (esp. with gem. sDm=f)
+ir
+i-w
+then
+iw
+h:d-mw-xt
+footstool (n.)
+hdmw
+ir-i-i
+do (prosp.)
+iry
+U7-i-i
+love (prosp.)
+mry
+h-A-D54:i*i
+descend (prosp.)
+hAy
+s-aA:a-A-i-i
+make great (prosp.)
+saAy
+p:t-p:t-D54
+trample (4-lit)
+ptpt
+O35-b-Z4:D54
+go, send (v.)
+zbi
+O35-b-V1:D54
+go (prosp.)
+sbw
+aHa-a:D54-w
+stand (prosp.)
+aHaw
+s-n:b-Y1\R90-Z3
+recover (prosp.)
+snbw
+s-x:D43-w-d:Y1
+enrich (v.)
+sxwd
+s-x-w-d:Y1:Z2
+enrich (prosp.)
+sxwdw
+D54-w-\!t:.
+come (prosp.)
+iwt
+W25-n:t
+bring (prosp.)
+int
+i-Ss-S-s-t
+what?
+iSst
+mA:ir-A-n
+see (prosp.)
+mAn
+A9-Z7-Y1:Z2
+load (n.)
+Atpw
+H-w
+{\tiny would that (procl. with prosp.), food, sustenance}
+Hw
+f:q-A-X4:Y1
+reward (v.)
+fqA
+Z7-H-i-i-Z7-T15-A1*B1:Z2
+tribe (n.)
+wHyw
+w-mt:Z2\R90-pr
+niche (n.)
+wmwt
+M8-d:D4
+dig (v.)
+SAd
+T25-b-O36-D40
+block (v.)
+DbA
+i-n:r-O39
+stone (n.)
+inr
+q:n-b-t:O38
+corner (n.)
+qnbt
+r:p:a
+noble (n.)
+rpat
+E17-A1
+dignitary, senior (official) (n.)
+sAb
+a:D-U7:D40-N36
+administrator (n.)
+aD mr
+Aa8:t-Z1
+district, nome (n.)
+spAt
+F29-t-G4-T14-A1:Z2
+Asiatics (n.)
+styw
+O45:t-pr
+harem (n.)
+ipAt
+a:r-N31:D54
+mount up, ascend (n.)
+ar
+m-a:k-t:Y1
+protection (n.)
+mkt
+m:a-i-D54
+Come! (v. imp. sing.)
+mi
+U17:Y1
+found, establish (v.)
+grg
+Aa20-r:Y1
+equip (v.)
+apr
+i-r:f
+with pl. imp. for empha. (enc. part.)
+irf
+Aa21-Y1
+judge, decide (v.)
+wDa
+P3
+sacred Barque (n.)
+wiA
+M3:x*X1-M3:x*X1-D55
+return, reverse (v.)
+xtxt
+H-f:t-I14
+worm (intestinal, n.)
+Hft
+k:f-tyw-N25
+Crete
+kftyw
+k-A-A2
+think about, plan (v.)
+kAi
+s-w-h:Z4-A2
+boast (v.)
+swhy
+g:r-grg:Y1
+prepare (v., intrans.)
+grg
+x:a-w-s-A24
+build, construct (v.)
+xwsi
+X:z-t:G37
+cowardice, impurity (n.)
+Xst
+q-b-F46:Y1
+double
+qb
+s-sA-A-s-sA-A-D54
+headlong attack
+sAsA
+x:R22-m-O20
+shrine (n.)
+xm
+T:n-T14-G41-W24-w-Y1\R90
+number, every, each (n.)
+Tnw
+xt:x*t-D54
+aftermath, wake
+xt
+A19
+old age
+iAw
+wr:r-S-i-i-ra:A1
+watchman
+wrSy
+q:a-H-D41
+elbow
+qaH
+g:z-D36
+anoint (v.)
+gs
+Hr:r-t-tyw-n:y-r
+Beware!
+Hrtiwny r
+A47-A-A-A24-ti-i-Hr:Z1
+Beware!
+sAA.ti Hr
+E9-V1-wr:r-B2
+conceive, be pregnant (v.)
+iwr
+F4:t*t-V1
+prow-rope (n.)
+HAtt
+k:A-S:N25
+Kush
+kAS
+U1-A-w-y:Y1
+new (adj.), be renewed (v.)
+mAwy
+wr:r-S:N5
+spend time (v.)
+wrS
+V28-V28-Z4:D54
+seek (v.)
+HiHi (4-lit)
+U1-A-i-F27
+lion (n.)
+mAi
+D56-X1:F51
+foot (n.)
+wart
+q:n-t:D40
+valour (n.)
+qnt
+d:h-n:D40
+promote, appoint (v.)
+dhn
+dmD-r
+total (n.)
+dmD r
+m-wHm-a:Z1
+again
+m wHma
+M24-t:N21
+south
+rSyt
+V22:D40
+seize (v.)
+mH
+s-q:r-i-A13-S34
+{\tiny captive, living prisoner (n.)}
+sqri anx
+Hr:Z1- Z1*\!Z1:W24-s-y
+for a second time, again
+Hr snnw.sy
+n:t*t
+relative adj. (pl. \& f. sing), marks noun clause
+ntt
+n:t*y
+relative adj. (m. sing.)
+nty
+n:t-tyw-\!\!Z2:.
+relative adj. (m. plural, rare)
+ntyw
+w-S:r-ra
+dry up, be barren, despoiled
+wSr
+h-b-hb
+plough (n.)
+hb
+n:t-a:Z1-Y1:Z2
+custom, habit (n.)
+nt-a
+A-t:Z5*ra
+moment
+At
+i-d-w-pt
+pestilence
+idw
+sxm-m-\!\!t:.-I12
+Sekhmet
+sxmt
+Z7:a-r:t-rd-N23:Z2
+flight
+wart
+x:p-p:Y1
+strange
+xpp
+n:S-n:y-E17
+tempest, storm
+nSny
+m-TA-A-A1
+taunt
+mTA
+D35:t*Z4-G37
+negative relative adjective
+iwty
+D35:t*t-G37
+negative relative adjective
+iwtt
+anx-n:x-A1
+oath (n.)
+anx
+H-k:n-nw-Z7-N33:Z2
+oil (n.)
+Hknw
+Hr-m
+why?
+Hr-m
+b-w-wr-r
+principal product (n.)
+bw wr
+s-U35-A2
+create opposition (against) (v.)
+sxsf
+a:r-q-V12:Y1
+raised up, bent
+arq
+z:z-Q7
+ashes (n.)
+ss
+wA-A-H-V29-A24
+set down (3-lit)
+wAH
+d-mi-i-D41
+touch, reach (v. trans.)
+dmi
+Hr:r-t:pt
+"the above", sky, heaven (n.)
+Hrt
+sn-n:nw-A1
+companion (n.)
+snw
+mi-i-t:t
+likeness (n.), as well
+mitt
+s-sA-A-H-N14
+Orion
+sAH
+mt:t:r-D50-D50-A2
+testify, bear witness, straightforward (3-lit)
+mtr
+s-sk-k:a
+wipe, wipe away (v.)
+sk
+r:Dw-w-\!Aa2:.
+fluid (n.)
+rDw
+ti-sw-w-xt
+staff
+tisw
+H-z:zA
+wild
+HzA
+s-T3-D:\!\!\!N5
+brighten (v.)
+sHD
+r:rw-w-t:pr
+gate (n.)
+rwt
+pA-A-D:\!\!\!ra
+ball (ball glyph, not sun!) (n.)
+pAD
+mH:\!\!\!H-mw
+swim
+mH
+i-ir-w-A53
+form, shape (n.)
+irw
+H-t:tm-m-G37
+perish (v.)
+Htm
+Sw-w-G37
+empty
+Sw
+x:D43-w-s-A34
+pound (v.)
+xwsi
+wD-w-D:\!\!\!O26
+stela (n.)
+wD
+x-\!b-bA-A-U7:D40
+hack up (v.)
+xbA
+r:Z1-p-w
+whchever, postfix disjunction
+r-pw
+ms-s-i-i-t*G41:Z2
+waterfowl (false pl.)
+msyt
+A-H-t:N23
+field, cultivated land (n.)
+AHt
+Aa8:t*O49
+estate (n.)
+spAt
+n:h-w-G37
+loss, need
+nhw
+s-nDm-m-A17
+residence (n.)
+snDm
+q:n-i-i-t:D40-A1:Z2
+braves (n. sing.)
+qnyt
+q:n-b-t:O38-A1:Z2
+council (n.)
+qnbt
+H-a:F51
+body (n. usu. w. pl.)
+Ha
+k:y-w-\!\!y:.
+other, another (f.pl.)
+kiwi
+b-g-A7
+slack, remiss
+bAgi 
+d:n-d:n-D54
+traverse
+dndn
+d:n-d:n-A24
+be angry
+DnDn
+iwn-n:t-O49
+Denderah (place)
+iwnt
+z:Dw-w-G37
+slander (v.)
+sDwy
+s-r:x-O33
+serekh
+srx
+Sn-n:nw*Z7-V9
+cartouche (n.)
+Snw
+M20-t:N23-H-mA-A-\!\!t:.-\!ti-N33:Z2-O49
+Wadi Natrun Oasis
+sxt-HmAt
+a:pr*t
+room (n.)
+at
+D33:n-i-i-t-A1:Z2
+crew (coll. n.)
+Xnyt
+i-ti-i-i-A23
+sovereign, sire (n.)
+ity
+nTr-O21
+god's booth (of Anubis)
+sH nTr
+n:f-A-N31
+those/that (n. demon. pron.)
+nfA
+x:n-G41-D54
+land, alight (v.)
+xni
+H-wr:r-G37
+poor, wretched
+Hwr
+T-w-\!t:.
+you (2nd. sing. ind.)
+Twt
+sw-w-\!t:.
+he (3rd. sing. ind.)
+swt
+G30-Y1:Z2
+impressiveness
+bAw
+kA:Z1-Z8:Z2
+energy (of food and drink)
+kAw
+wA-A-w-N35A
+wave (n.)
+wAw
+H-Hn:n-D54
+attack (n.)
+Hn
+q-s-T19-n:G37
+difficult
+qsn
+d-mi-i-N23:Z1
+harbour
+dmi
+m-a:k-A-D40
+brave (adj.)
+mikA
+m:a-t:n-\!T14-pA-N31
+path
+mitn/miTn
+n:x-A2
+pitiful (adj.)
+nx
+x:n-r:U31
+confine (v.)
+xnr
+DA-A-r-w-V32-A2
+need (n.)
+DArw
+b-Z7-nfr-f:r
+goodness
+bw-nfr
+Hmt-w-\!t:.-A1
+craftsman
+Hmwti
+m-xA-A-\!t:.-U38-xt
+scale, measure of worth (n.)
+mxAt
+M42:\!Dw-.:t:.\!w-A1*A2:Z2
+tenants (coll. n.)
+wnDwt
+g:r-H-D41:Y1
+end (n.)
+grH
+n-w-A1
+I belong
+n(i) wi
+n-sw-w
+he belongs
+n(i) sw
+n-s-Z4
+she belongs
+n(i) si
+n:ns-s-Z4
+she belongs
+n(i) si
+V29-H-Y1
+lasting, leave, set down
+wAH
+n:n:k
+belongs to me
+nnk
+r:k-H-Q7
+light (fire)
+rqH
+t-w
+you [D] (pronoun [S2m])
+tw
+O22-Z1:pr
+tent
+zH
+Z11-(.:.:t:.)-\!w-n:Z1*Z1
+between them, among them (adv.)
+imitw-ni (adv.)
+n:y
+thereto, for it (adv.)
+ni
+wD-i-i-t:D54
+campaign, expedition
+wDyt
+q-A-q-A-w-P1
+travelling barge
+qAqAw
+bA-\!k:.-w-D40:Z2
+work, taxes, tribute
+bAkw
+wn:Dw-E1:Z2
+short-horned cattle
+wnDw
+S15
+gleam, dazzle
+THn
+q:n-A24
+valourous, prevail (3ae-inf)
+qni
+b-H-s-D54
+hunt
+bHs
+a:x-m-w-s-k:N14
+imperishable (circumpolar) stars
+ixm sk
+p:S-S:D54
+straddle, spread
+pSS
+k:f-a:D40
+shoot (at target)
+kfa
+m:a-D:d-Aa24:D40
+press hard on, hit (target)
+mDd
+s-g:r-H-Y1v
+pacify
+sgrH
+N28
+crown
+xaw
+W11
+throne
+nst
+bH:d-t:O49
+He of Behdet (winged sun disk)
+bHdty
+D17:t
+image, likeness
+tit
+stp:p-V17
+protect, do escort duty
+stp sA
+i-in:n-H-D13:D13:.
+eyebrows
+inHwy
+H-Hn:n-z:k-t:D3
+braided tress
+Hnskt
+wAs
+dominion
+wAs
+E21:tm:Z2
+marvels
+biA
+sk*H:S11
+garland
+wAH
+wa-a:Z1-m-n:A-n
+One of those...
+wa m nA n
+nH-H-s-A1
+Nubian
+nHs(i)
+N11
+palm = 1/7 cubit
+Szp
+V12:q-i-i-ra
+last day of month
+arqy
+i-p:t-st-t:Z2-O49
+Karnak temple
+ipt-swt
+O35-w-ra:Z2
+day (of month)
+sw
+i-d:r-V37-E1
+herd
+idr
+A33
+herder
+mniw
+d:t*Z5-E1
+calf
+Drt
+Hr:r-Dba-E1
+hornless cattle
+Hri-Dba
+wp:p*t-Z9
+splitting
+wpt
+H-t:r-E1
+team ox
+Htr
+Xr:r-t:Y1
+possessions
+Xrwt
+i-M-m-A2:Z2
+mourning
+imw
+wr:r-r:t-S1
+crown
+wrrt
+Xr:r-W-Y1:Z2
+down(ness)
+Xrw
+m-t:Z6
+death, die (3-lit)
+mwt
+Sd:d-W:P1
+raft
+Sdw
+i-z:f-t:G37
+wrong, disorder, falsehood
+izft
+ms-s-A2
+indeed
+ms
+M42-A2-w-Z8:Z2
+food
+wn(m)w
+sDm-m-w
+obedient
+sDmw
+q-T14-Y1v
+throw (3-lit)
+qmA
+P5
+breath, wind, air (n.)
+TAw
+tp*p:N17
+those who walk upon the earth
+tp(i)w-tA
+W10:X1
+mistress
+Hnwt
+G9-\!\!\!N17:N17:Z4:.
+Ra-Horakhty
+r'-Hr-Axty
+a:a-f:t-Y1:Z2
+rate of payment
+aaft
+nD-nw:t:Z4
+protector
+nDty
+E34:n:O31
+open
+wn
+t-w-\!t:.
+image (n.), perfect (adj.)
+twt
+ms-z:t*Z2
+birth
+mswt
+M26-a-A2-A1
+singer, chanter
+Sma
+A20
+elder, eldest (n.)
+smsw
+W24-Z7-A1
+waiter, butler, cook
+wdpw
+T:n-T14-pA
+where?
+Tni
+r:Z1-V2:V2-V2:N25
+Restau, necropolis
+r sTAw
+w-a-w-D40
+soldier
+waw
+t-m-s-Y3-Y1\R90
+red, ruddy
+tms
+w-s-x:t-W10-P1
+barge
+wsxt
+r:mn-n:D41
+shoulder
+rmn
+stp:nw-w-i
+I belong
+n(i)-wi
+mi-t-w-A1
+equal (n. eg. your equal)
+mitw
+D35-i-s
+not, and not, but not, except
+ni is
+x:n-G41-A2
+utterance, phrase
+xn
+F36-Y1-A1
+confederate, companion
+smA
+M22*M22:n-A7
+weary, inert
+n(i)n(i)
+H-H-w-n:n:n
+infinite flood
+HHw
+t:n-nm-m-D55
+lost, confused, astray
+tnm
+Z1*Z1*Z1*Z1:Z1*Z1*Z1*Z1-i-i-w-A40-Z3
+Ogdoad
+xmnyw
+q-A-sA-Z1
+arrogant (high of back)
+qA-sA
+g:r-t
+moreover
+grt (encl.)
+s-sA-A-\!\!q:.-aSA-Y1
+pull together, collect
+sAq
+m-a:k-A24
+guard, protect
+mki
+H-t:r-E6
+span (of horses), chariotry
+Htr
+i-w-ms-s
+exaggeration
+iwms
+r-m-i-i-t:D9
+tears
+rmyt
+E9-w-G37:Z2
+complaint
+iw
+g-s-sA-A-O37
+tilt
+gsA
+E9-G37
+error
+iw
+aA:a-w-\!t:.-N33:Z2
+lump
+aAwt
+b-Z7:nb-A1*B1:Z2
+everyone
+bw-nb
+n:t*t
+you (pron. 2nd pers. sing. f. ind.)
+ntt
+S38-O6-t:O49-A1
+mayor
+hqA-Hwt
+i-w-g:r:t-N25
+the realm of the dead
+iwgrt
+F17
+purify
+abw
+Tz:pXr
+vice versa
+Ts pXr
+A17
+youth/child
+Hwn/Xrd
+mDH
+headband
+mDH
+s-m
+sem priest (or "it is")
+sm
+N7
+course of the day
+Xrt-hrw
+nD-nw:Y1
+avenge
+nD
+w-z:f-w-pA-D54-A1
+one who forgets things
+wzfw
+S:f-t:F7
+respect
+Sft
+E9-w-a-w-A1
+heir
+iwaw
+z:X-sDm
+one who cannot hear
+zX
+h:r-w-ra-nfr-f:r
+holiday
+hrw nfr
+s-b-x:t-O14
+barrier
+sbxt
+H-Hn-n:D54
+hurrying
+Hn
+a-wA-A-i-i-A24-A1
+robber
+awAy
+ti-m-H-y-\!T14-A1
+Libyan
+timHi
+b-t:U30-A-D56-D54
+run
+btA
+d
+give, place, put
+wd
+nb-ir:x*t
+lord of cult action
+nb ir xt
+p-H-r:r-D54
+run
+pHrr (3ae-gem)
+Aa5:p-w
+Apis bull
+Hpw
+E9-w-sw-Z7:xt
+balance (scale w/two pans)
+iwsw
+a-wn:n-A24-ib:Z1
+greedy
+awn-ib
+D33-n:t-A22
+statue, picture
+Xnti
+Ab-m-r:t-G37:Z2
+pains
+mrwt
+r:x-s-T30:a
+slaughter, butchery
+rxs
+Y3-Y1:Z2
+writing
+zXAw
+q:r-f:t-S28
+bag, sack
+qrft
+s-r:t-M44
+thorn
+srt
+m-a-n:t*t
+seeing that
+m a ntt
+x*t:f-n:t*t
+in view of the fact that
+xft ntt
+bA-\!\!k:.-A1-i-m
+yours truly, your humble servant
+bAk im
+wa:Z1-i-m-\!nb
+every one of them
+wa im nb
+i-s-t
+marks adverb clause (procl.)
+ist
+ti-i
+marks adverb clause (procl.)
+ti
+p:r-i-M5-D40:Z2
+battlefield
+pri
+w-SA-A-G37
+ruin
+wSA
+i-s
+marks noun clause
+is
+tm-m-A40
+Atum
+itm
+tm-m-G37
+perish, cease
+tm
+q-\!b-Z7-W15-N35A-P5-Z3
+cool breeze
+qbw
+Sw-w-ra
+sunlight, dry
+Sw
+i-mA-A-m-pr
+tent
+imAm
+n:stp-nw:Z7-i-i-mw
+waters
+nwi
+w-i-in:n-a:D40
+thrust aside, push away, set aside, not want to be
+win
+HA-A-p-S28
+secret, mysterious, hide
+HAp
+HA-A-p-S28-D40
+wrap
+HAp
+i-in:n-q-D32
+unite, gather together, embrace
+inq
+D19-Z4
+foremost
+xnty
+HD-HD-HD
+onions, garlic
+HDw
+w-H-A
+harvest, cut crops
+wHA
+a:H*b-N35A
+fill jars
+aHb
+W15-mw
+libation
+qbH
+Z11-ib:Z1
+confidant
+imi-ib
+qd-d:nw-Y1
+character
+qd
+z-S:Z4-G47:\!N11\R180
+nestling
+zSi
+s-x:r-i-i-Y1-A1
+pilot, captain
+sxry
+z:n:f-P5-A24
+vent
+snf(A)
+Hr-n:t*t
+because
+Hr ntt
+a-aHa-w-ra:Z1
+lifetime
+aHaw
+H-t:r-i-tr-Y1:Z2
+team
+Htri
+F29-t:t-Aa2:Z2
+boil (n.), shooting pain
+stt
+i-x:r-A15
+expresses inevitable consequence (procl.)
+xr
+p:a-t:X4
+loaf of bread
+pat
+A-m-Q7
+burn, burn up
+Am
+mH:\!(t*y)
+northern
+mHty
+s-nDm-m-Y1v
+sweeten (caus. 3-lit)
+snDm
+n:i*t-i-t-A2
+stammer (5-lit)
+nitit
+i-p:Y1
+count, select, allot (2-lit)
+ip
+s-r-w-i-D54
+remove (caus. 3ae-inf)
+srwi
+r-w-i-D54
+go away (3ae-inf)
+rwi
+p-s-D-N8
+shine (4ae-inf)
+psDi
+gm-m-gm-m-Z9
+smash (4-lit)
+gmgm
+s-aq-q:D54
+introduce, bring in (caus. 2-lit)
+saq
+g:r-A2
+become still (2-lit)
+gr
+f-A-A9-D40
+carry (3ae-inf)
+fAi
+U1:D4-A-A
+see (2ae-gem)
+mAA
+s-f:x-V12:D54
+loosen (cause. 2ae-gem)
+sfxx
+T:z-U39-a
+pick up (3ae-inf)
+Tzi
+s-mn:n-Y1v
+make firm, set up (caus. 2-lit)
+smn
+A-\!x:.-A-\!x:.-HA
+become verdant (4-lit)
+AxAx
+s-A-\!x:.-A-\!x:.-HA
+make verdant (caus. 4-lit)
+sAxAx
+s-x:d-A29
+invert
+sxd
+s-x:d-x:d-A29
+invert (caus. 4-lit)
+sxdxd
+s-q-b-b-W15-N35A
+make cool (caus. 2ae-gem)
+sqbb
+f:k-D3:\!G37
+desolate (2-lit)
+fk
+b-i-k-G6
+hawk
+bik
+F22
+hind quarters
+pHwy
+i-A-k-b-D3
+mourning, wailing
+iAkb
+A42-M23-i-i-t:Y1
+kingship
+(n)swyt
+p:S-n:Z9
+split (eg. wood), slice (bread)
+pSn
+D:n-n:t-tp
+skull
+Dnnt
+E9-w-d:D54
+separate (one thing from another)
+iwd
+p-pA-A-k:t-D12
+plate (of skull)
+pAqt
+t-wA-A-A30-A2
+beseech, appeal to
+twA
+nw-w-t-w-t
+totter
+nwtwt
+n:f-a:D54
+remove
+nfa
+d:g-A7
+hide
+dgi
+H-w-t:f:D40
+plunder
+Hwtf
+s-wr:r-d:G37
+tire (caus.)
+swrd
+wr-r:d-A7
+tire (intr.)
+wrd
+pXr:r-D54-n
+serve
+pXr n
+sDm-m-p:Z7-ir:n:f
+what he did was...
+sDm pw ir.n.f ...
+sDm-m-p-Z7-ir:i*i
+what was done was...
+sDm pw iry
+H-s-q-Z9:D40
+severed (eg. head)
+Hsq
+a-m-a-m-Dba\R270:D40
+give a massage
+amam
+Hm-Z7-A1
+servant
+Hmw
+M26-a-A2
+chant
+Sma
+wA-A-g-A1
+make festival
+wAgi
+ab-ab-F16:Y1
+boast
+abab
+i-k:n-A24
+scoop (3-lit \& n.)
+ikn
+SA-A-z:D54
+go off, proceed
+SAs
+wbA-b-bA-A-i-i-t:Y1-B1
+maid
+wbAyt
+wbA-bA-ib:Z1
+confide
+wbA ib
+s-mA-A-T30:D40
+kill
+smA
+s-r-w-x*Aa3:Y1
+treat
+srwx
+a:n-t:Dba\R270
+nail
+ant
+SA-A-a:Y1
+start, begin
+SAa
+SA-A-Y1v
+determine
+SAi
+wA-A-g-A2
+make festival (4ae-inf)
+wAgi
+d-b-b-D40
+block
+dbb
+a:f-A-i-i-pr
+camp (n.)
+afAy
+n:h-m-A2
+yell
+nhm
+d-b-bA-A-DbA-Y1v
+replace (3-lit)
+DbA/dbA
+s-V2:T-A-D54
+drag
+sTA
+b-F18:W10-w-Z1*Z1:Z1
+ore
+b(iA)w
+pXr:n-D54
+go around
+dbn
+z:T
+pour
+z(A)T
+s-sk-k:G37
+perish, destroy
+ski
+p:g-A-D32:\!\!\!Z1:D40
+spread open
+pgA
+aHa-a:n
+and then
+aHa.n
+wn:n-i-n
+and then
+wn.in
+M42:n-i-n
+and then
+wn.in
+t:Z7-A1
+I (dep. Dyn. 17+)
+tw.i
+t*Z7:k
+you (m. dep. Dyn. 17+)
+tw.k
+t:Z7-B1
+you (f. dep. Dyn. 17+)
+tw.(t)
+t:Z7-n:Z2
+we (pl. sing. dep. Dyn. 17+)
+tw.n
+t:Z7-t:n:Z2
+you (pl. sing. dep. Dyn. 17+)
+tw.tn
+s:n
+{\small they/them/their (pron. 3rd pers. plur. dep.)}
+sn
+s-T
+marks adverb clause (particle)
+sT
+ms-A17
+child
+ms
+Xn:n-pr-n:x:n-pr
+southern Egypt
+Xn-nxn
+r:Z1-ib:Z1
+stomach
+r-ib
+wn:n-t
+that (procl.)
+wnt
+M42:n-t
+that (procl.)
+wnt
+s-s-p:d-spd-Y1
+sharpen, prepare
+sspd
+T-H-n:D54
+meet, engage (enemy)
+THn
+x:r-A14-A13
+enemy
+xr
+D:\!\!\!\!t*Z1*\!\!\!.
+body, image (eg. of god)
+Dt
+mn:n-mn:n-D54
+quake
+mnmn
+aHa-a:P1
+(masted) boat
+aHa
+N34:Z1-N33:Z2
+copper, bronze
+Hmt
+S:a-t:F41-T30:Z2
+slaughter
+Sat
+T14-m-A1
+Asiatic (n.)
+aAm
+n:ns:z-Z7:t-Q7-Z3
+tongue (of flame)
+nswt
+a:r-a:t-I12
+uraeus
+arat
+XA-A-k:Aa2
+truncate
+XAk
+XA-A-k:Aa2-ib:Z1-A14
+estranged
+XAk-ib
+s-h:r-Y1v
+pacify (caus. 3ae-inf)
+shri
+h-b-hb:\!D54
+plough (3ae-inf)
+hbi
+q:n-Z9
+audacity, offence
+qn
+N41-m-a
+and, also
+Hm
+S:p-D26
+flow out, depart (eg. evil spirit)
+Sp
+b-s-D54
+flow (of water)
+bsi
+s-s-r:d-M31
+plant (eg. field) (caus.)
+ssrd
+q:q-A2
+eat (var.)
+wnm
+p:z-S:Z9
+divide, share
+psS
+xnt-n:t:pr
+brow, front
+xnt
+M18-i-i-t-G37:Z2
+wrong (n.)
+iyt
+s-r:Z7-A17-A1:Z2
+officials
+srw
+D:\!\!a*\!.-r-T14-D54
+search out, examine, palpate
+Dar
+m:a-xA-A-t*V11:M3
+scale, balance
+mxAt
+r:a-Hr*Z1:gs
+lean to one side, be partial
+rdi Hr gs
+i-h-G37
+pain
+Ahw
+h:r-p-N35A
+sink, downhearted
+hrp
+s-d:N21*Z9
+break, break open, fracture
+sD
+Hwt-t:pr-rd-t:niwt
+Avaris
+Hwt-wart
+ti-Z7-A2
+yes
+tiw
+m-b-i-A-W10:bH-Y1:Z2-A2
+no
+m-biA
+a:r:r-i-i-t:pr
+gate
+arryt
+Xn:n-t:Z4-A53
+statue, picture
+Hnti
+V17-A1:Z2
+phyle (shift)
+zA
+N14-t:Z1
+hour, hourly staff
+wnwt
+SA-A-E12
+pig
+SA
+n:Dr:r-A24
+grab, seize
+nDrw
+i-t-H-A24
+pull, drag
+itH
+T1:n:k
+take to yourself (etc.)
+mn n.k
+i-Aa13:m-a
+give!, put! (imp.)
+imi
+i-O35-D54
+go! (imp.)
+i.z(i)
+tA:tm-m-Z7-A1*B1:Z2
+everyone (the land complete)
+tA-tmw
+N35A-w-w
+(ritual) dancers
+mww
+r-H-w-A1
+companion, comrade
+rHw
+xA-A-i-i-V1
+measuring line
+xAy
+ir-n:U19-nw-Z7:d-D54:Z2
+deviate
+ir nwdw
+i-s-Z7-A2
+behold (procl.)
+isw
+m-Dr:r-O36
+shut out (storm), wall in (treasure)
+mDr
+m-a
+whether (procl.)
+mi
+D35:n
+not, or not (procl.)
+nn
+nfr-f:r-p-w
+there is no...
+nfr pw
+nfr-w-G37:Z2
+depletion, zero
+nfrw
+HA-A-A2
+if only, would that (procl.)
+HA
+H-w-\!\!Z4:.-A2-A
+if only, would that (procl.)
+Hwi A
+H-a:a-Z7:t-A28-Y1:Z2
+excitement
+Haawt
+k-A-A2
+then (procl.)
+kA
+A
+emphasize previous word (encl.)
+A
+i-s-t-r:f
+Now... (encl.)
+ist r.f
+i-a:S-A1:n-HAt:t*Z1
+pilot ("caller of the front")
+iaS n HAt
+wn:n-n:t
+really, indeed (encl.)
+wnnt
+m-\!a:.
+please, now (encl.)
+mi
+h-A
+oh! (interj.)
+hA
+ra:t
+light
+HAit
+s-H-t:tm-m-pA-G37
+annihilate (caus. 3-lit)
+sHtm
+g:r-grg-G37:Z2
+lying (n.)
+grgw
+b-Z7:Dw-Z7-G37
+evil (n.)
+bw-Dw
+s-b-n:D54
+go off course (caus. 3-inf)
+sbnw
+n-f:r-i-i-t:V1*Z1
+tiller rope
+nfryt
+mH:a-A2
+care, worry (3-lit)
+mHi
+i-tm-m-W-G37:Z2
+suffocation
+itmw
+s-f:n-D19:Y1
+mild, merciful (caus. 2-lit)
+sfn
+xsf-f:D36
+opponent
+xsfw
+s-wAH-H-Y1
+set, make endure (caus. 3-lit)
+swAH
+s-i-q:r-Y1
+make excellent, successful (caus. 3-lit)
+sikr
+O6
+enclosure
+Hwt
+i-O35-D54
+go! (imp.)
+i.z(i)
+H-Hn-n:nw*Z7-W10
+property
+Hnw
+H-st-zA-\!\!\!t:.
+equip (3-lit)
+Htm
+i-m-O35
+bring! (imp.)
+i.mz
+wD-w-Y1v-tp:Z1
+give orders
+wD tp
+n:D-b-A2
+sip (3-lit)
+ndb
+S36-t:Z1
+shade
+Swt
+q-\!b-t-W15-N35A
+cool place
+qbt
+M8:x-t*Z4:ra
+of the inundation season
+Axti
+zmA-A-Y1-tA:N23*Z1
+land (v.), landing (n.)
+zmA tA
+ms-s-n-H-D55
+spin around
+msnH
+nH-H-p:O39
+potter's wheel
+nHp
+aHa-a:M35-Y1:Z2
+pile, heap (eg. of riches)
+aHa
+N41-m-A24
+and, also
+Hm
+D33:n-t:P1
+excursion (by boat)
+Xnt
+s-q:Aa7-T3
+flatten, strike down
+sqr
+s-q:r-T30:D40
+flatten, strike down
+sqr
+iwn-T10:t-A14
+desert Nubian
+iwnt
+T:z-T14-D40
+pick up (3ae-inf)
+Tzi
+k:t-x:t-A1*B1:Z2
+others (n.)
+kt-xt
+k:t-x:y-A1*B1:Z2
+others (n.)
+kt-xi
+N8-\!G18-\!t-A1*B1:Z2
+humanity
+xnmmt
+Hr*Z1:nb-A1*B1:Z2
+everyone
+Hr-nb
+i-a-H-C3
+moon (as Thoth)
+iaH
+t-wr:r-i-qs-Y1
+show respect (with Hr: "to")
+twr/twi
+s-sk-k:t-P1:Z2
+troop ship
+skwt
+r:h-n:D41
+lean on, depend
+rhni
+aHA-w-T11
+arrow, weapon
+aHAw
+H-Hr:r-N31
+go far away (3-inf)
+Hrj
+n:f-G37
+wrong, error
+nf
+iz-w-\!t:.-A1:Z2
+crew (n.)
+izwt
+M17-b-E8
+think, suppose (2-lit)
+ib
+n:n:t:t
+for, because (of the fact that)
+n ntt
+w-mt:t:Y1
+thick (3-lit)
+wmt
+TA-A-w-mt-A1
+man, male (n.)
+TAw
+TA-A-i-i-mt-A1
+man, male (n.)
+TAy
+a:a-i-A2
+wail
+aiai
+a:x*x-w-N2
+nightfall
+axxw
+.:.:R7-\!G29-\!\!\!.:Z6:.
+ba
+bA
+A-d:D54
+weak, listless (2-lit)
+Ad
+i-r-sw-w-\!t:.
+if however
+ir swt
+z:d-S28:D40
+get dressed (in a kilt)
+sd
+s-sA-A-A2
+become sated (3ae-inf)
+sAi
+H2-q:t*Z5-S28:Z2
+fine linen
+pAqt
+t:x-W22
+get drunk
+txi
+tp:Z1-p:t-W23:Z2
+first class oil
+tpt
+H-Hn-n:k-i-i-t:D42-S28:\!.*Z1
+bed
+Hnkyt
+n:x-xA-A-w-in
+(fish) pendant
+nxAw
+mA-A-t:Y1
+new (adj. f.)
+mAt
+pA-A-q-i-i-t:O39
+sherd
+pAqyt
+t-mA-A-m-V19-Z1
+mat
+tmA
+s-ms-s-y:Z5
+cause to give birth (caus. 3ae-inf)
+smsi
+S-wA-A-Z7-A4-G37
+outcast, renegade
+SwAw
+x:D43-Z7:d-O38:Y1-A1
+rich (3-lit)
+xwd
+nD-nw*t:y:\!D40
+saviour
+nDti
+N41-m-D53
+coward
+Hm
+nfr-f:r-ib-Z1
+relaxation
+nfr ib
+m:a-t:n-\!T14-pA-A1
+scout
+mitn
+Ab-b-w-W8:N25-O49
+Elephantine
+Abw
+a:f-d:t:Q5
+box
+afdt
+T:n:t*t-O40
+dais
+Tntt
+x:n-nw-Z7-s-G37
+stinging insect
+xnws
+zmA-A-i-i-t:D40
+gang
+zmAyt
+nm-m-\!\!a:.-E20
+be partial
+nma
+n:nm*m-i-D41:D54
+travel (by foot, 3ae-inf)
+nmi
+E34-n:f-S28-ib*Z1
+frivolous (loose of heart)
+wnf ib
+E34:n-mA:mAa-a:H2-Y1
+reality
+wn mAa
+n-E34:n-mA:mAa-a:H2-Y1
+truly
+wn mAa
+H-Hn:n-iwn-Y1v
+command, commend; take care of (2-lit)
+Hn
+i-gs:m-P1:Z1
+boat
+imw
+M1-t:y-it:Z2
+emmer
+bti
+H8
+son
+zA
+E9:a-t:F44
+inheritance
+iwat
+Ab-b-A2
+desire, wish (3ae-inf)
+Abi
+V22:Y1
+fill (2-lit)
+mH
+Sma-U10:Z2
+southern barley
+Smai
+TA-A-D40
+take (3ae-inf)
+TAi
+i-A-A-t:xt
+branch
+iAAt
+i-z:r-M1:\!\!\!M3
+tamarisk
+izr
+aA:a-A-g-D56-a
+pound
+aAg
+g:p-G37
+cloud up (2-lit)
+gp
+kA:mt-Z7-N33:Z2
+fruit, fruits
+kAw
+i-p:Y1-D:\!\!\!(t*\!\!.*Z1*.)
+collect (one)self
+ip Dt
+km-m-Y1
+complete (2-lit)
+km
+qd-d:f-D51:D40
+gather (flowers, sayings)
+qdf
+stp:V16-pr
+palace
+ztp-zA
+i-in:n-t:N25
+valley
+int

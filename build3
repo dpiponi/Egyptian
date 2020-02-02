@@ -1,0 +1,8 @@
+python maketex2.py < $1.txt > temp.tex
+./sesh < temp.tex > $1.tex
+pdflatex $1.tex
+#mv $1.pdf $1.pdf
+# cp $1.pdf ../../Development/iPhone/HelloWorld/HelloWorld/
+echo cp $1.pdf /Users/dan/Dropbox/Public/Flashcards/Hieroglyphs.pdf
+cp $1.pdf ~/Dropbox/Public/Flashcards/Hieroglyphs.pdf
+open $1.pdf
