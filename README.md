@@ -1,8 +1,7 @@
 # Egyptian
 Some materials for studying Ancient Egyptian
 
-The "source" is in `complete2.txt` and it builds `complete2.pdf`. As I don't remember where to get all of the needed tools to build the PDF I have provided a copy of the PDF as well.
+The "source" is in `complete2.txt` and it builds `complete2.pdf`. You'll need to  `build3` as it's currently hard-coded to my local filesystem. But you can just use the PDF directly if you want.
 
-Among these are:
-1. `sesh` which IIRC preprocesses TeX files to conert transliterated egyptian to TeX commands. I don't know where to find this, I just have a binary.
-2. `HieroTeX` available on [github](https://github.com/hierotex/hierotex)
+You'll need to install `HieroTeX` which is available on [github](https://github.com/hierotex/hierotex).
+As well as the TeX-based tools you'll need to build `sesh`.
